@@ -1,6 +1,6 @@
-baseURL: "https://ching-kuo.github.io/"
+baseURL: "https://ching-kuo.github.io/chasing-kona/"
 languageCode: "en"
-title: "Ching Kuo | Triathlon & Life"
+title: "Chasing Kona"
 theme: "stack"
 
 defaultContentLanguage: "en"
@@ -10,7 +10,7 @@ languages:
   en:
     languageName: "English"
     weight: 1
-    title: "Ching Kuo | Triathlon & Life"
+    title: "Chasing Kona | Triathlon & Life"
     params:
       description: "Triathlete. Cloud engineer. Chasing Kona."
       sidebar:
@@ -18,7 +18,7 @@ languages:
   zh-tw:
     languageName: "繁體中文"
     weight: 2
-    title: "Ching Kuo | 鐵人三項與生活"
+    title: "Chasing Kona | 鐵人三項與生活"
     params:
       description: "鐵人三項選手。雲端工程師。追逐科納之夢。"
       sidebar:
@@ -26,7 +26,7 @@ languages:
   ja:
     languageName: "日本語"
     weight: 3
-    title: "Ching Kuo | トライアスロンと人生"
+    title: "Chasing Kona | トライアスロンと人生"
     params:
       description: "トライアスリート。クラウドエンジニア。コナを目指して。"
       sidebar:
