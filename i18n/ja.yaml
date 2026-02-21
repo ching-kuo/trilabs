@@ -1,0 +1,15 @@
+home:
+  other: "ホーム"
+search:
+  other: "検索"
+readMore:
+  other: "続きを読む"
+article:
+  readingTime:
+    other: "約 {{ . }} 分"
+categories:
+  other: "カテゴリー"
+tags:
+  other: "タグ"
+recentArticles:
+  other: "最新記事"

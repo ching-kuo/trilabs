@@ -1,0 +1,15 @@
+home:
+  other: "首頁"
+search:
+  other: "搜尋"
+readMore:
+  other: "繼續閱讀"
+article:
+  readingTime:
+    other: "約 {{ . }} 分鐘"
+categories:
+  other: "分類"
+tags:
+  other: "標籤"
+recentArticles:
+  other: "最新文章"

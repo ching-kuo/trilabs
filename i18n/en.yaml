@@ -1,0 +1,15 @@
+home:
+  other: "Home"
+search:
+  other: "Search"
+readMore:
+  other: "Read more"
+article:
+  readingTime:
+    other: "{{ . }} min read"
+categories:
+  other: "Categories"
+tags:
+  other: "Tags"
+recentArticles:
+  other: "Recent Articles"
