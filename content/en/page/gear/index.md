@@ -9,56 +9,61 @@ menu:
             icon: archives
 ---
 
+*Gear I actually use — no sponsored reviews, just honest kit.*
+
 ## 🏊 Swim
 
-| Item | Brand/Model | Notes |
-|------|------------|-------|
-| Wetsuit | — | — |
-| Goggles | — | — |
+| Item | Brand / Model | Notes |
+|------|--------------|-------|
+| Jammer | Speedo Flex Sigma V Jammer II | [Amazon JP](https://amzn.asia/d/0ivIKKhS) |
+| Goggles | THEMAGIC5 | Custom-fit to face scan — zero leaks |
 | Swim cap | — | — |
 | Pull buoy | — | — |
 | Training fins | — | — |
 
 ## 🚴 Bike
 
-| Item | Brand/Model | Notes |
-|------|------------|-------|
-| Triathlon/TT bike | — | — |
-| Road bike (training) | — | — |
-| Helmet (aero) | — | — |
-| Helmet (road/training) | — | — |
-| Wheels (race) | — | — |
-| Wheels (training) | — | — |
-| Tires | — | — |
-| Saddle | — | — |
-| Pedals & shoes | — | — |
-| Bike computer | — | — |
-| Power meter | — | — |
-| Bike fit | — | — |
+| Item | Brand / Model | Notes |
+|------|--------------|-------|
+| Tri / TT bike | Cervélo P5 | — |
+| Road bike (training) | Cannondale SuperSix Evo 2020 | — |
+| Aero helmet | MET Manta | — |
+| Road helmet | MET Trenta 3K Carbon | ¹ |
+| Race wheels | DT Swiss ARC 1100 62mm / Reserve 52/63 | Zipp ZR1 hub |
+| Training wheels | — | — |
+| Tires (race) | Vittoria Corsa Speed 29mm | — |
+| Tires (training) | Continental GP5000 STR 28mm | — |
+| Saddle | Selle Italia Watt 3D / Selle Italia Boost 3D | — |
+| Pedals | Wahoo Powrlink Zero Dual-Sided | Power meter integrated |
+| Power meter | Wahoo Powrlink Zero | Same as pedals |
+| Bike computer | Garmin Edge 840 / Edge 1040 Solar | ² |
+| Bike fit | ✅ Done | — |
 
 ## 🏃 Run
 
-| Item | Brand/Model | Notes |
-|------|------------|-------|
-| Race shoes | — | — |
-| Training shoes | — | — |
-| Running vest/belt | — | — |
+| Item | Brand / Model | Notes |
+|------|--------------|-------|
+| Race shoes | Adidas Adizero Adios Pro 4 / ASICS Metaspeed Edge Tokyo | — |
+| Training shoes | ASICS ³ | — |
+| Running vest / belt | — | — |
 
 ## ⌚ Tech & Electronics
 
-| Item | Brand/Model | Notes |
-|------|------------|-------|
-| GPS watch | — | — |
-| Heart rate monitor (chest) | — | — |
-| Smart trainer | — | — |
-| Cycling trainer app | Zwift | — |
+| Item | Brand / Model | Notes |
+|------|--------------|-------|
+| GPS watch | Garmin Fēnix 8 | — |
+| Heart rate strap | Garmin HRM Pro | — |
+| Smart trainer | Tacx NEO 2T | Garmin-owned |
+| Cycling app | Zwift | — |
 | Training platform | TrainingPeaks | — |
+| Data sync | Garmin Connect | — |
 
 ## 🧴 Nutrition & Recovery
 
-| Item | Brand/Model | Notes |
-|------|------------|-------|
-| Race nutrition (gels) | — | — |
+| Item | Brand / Model | Notes |
+|------|--------------|-------|
+| Race gels | Maurten | Science-backed hydrogel formula |
+| Race gels (local) | 碳水炸彈 蜂蜜檸檬 (Carbo Bomb Honey Lemon) | Taiwan brand |
 | Electrolytes | — | — |
 | Compression sleeves | — | — |
 | Foam roller | — | — |
@@ -66,9 +71,9 @@ menu:
 
 ## 🧳 Race Day
 
-| Item | Brand/Model | Notes |
-|------|------------|-------|
-| Trisuit | — | — |
+| Item | Brand / Model | Notes |
+|------|--------------|-------|
+| Trisuit | HUUB Anemoi 2.22 Plus Bonded | — |
 | Transition bag | — | — |
 | Race belt | — | — |
 | Body glide / anti-chafe | — | — |
@@ -76,4 +81,11 @@ menu:
 
 ---
 
-*This list is a work in progress. Last updated: February 2026.*
+**Notes**
+¹ *MET Trenta 3K Carbon — possibly MIPS variant, to be confirmed*  
+² *Garmin Edge model TBC — Edge 840 or Edge 1040 Solar*  
+³ *Training shoe model to be confirmed*
+
+---
+
+*Last updated: February 2026*
