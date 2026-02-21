@@ -6,7 +6,7 @@ menu:
     main:
         weight: -80
         params:
-            icon: calendar
+            icon: date
 ---
 
 ## 2026 賽事行事曆

@@ -6,7 +6,7 @@ menu:
     main:
         weight: -75
         params:
-            icon: box
+            icon: archives
 ---
 
 ## 🏊 スイム
