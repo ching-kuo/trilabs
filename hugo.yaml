@@ -1,6 +1,6 @@
-baseURL: "https://ching-kuo.github.io/chasing-kona/"
+baseURL: "https://trilabs.dev/"
 languageCode: "en"
-title: "Chasing Kona"
+title: "Tri Labs"
 theme: "stack"
 
 defaultContentLanguage: "en"
@@ -10,27 +10,27 @@ languages:
   en:
     languageName: "English"
     weight: 1
-    title: "Chasing Kona | Triathlon & Life"
+    title: "Tri Labs | Data & Endurance"
     params:
-      description: "Triathlete. Cloud engineer. Chasing Kona."
+      description: "Triathlete. Cloud engineer. Engineering the perfect race."
       sidebar:
-        subtitle: "Triathlete. Cloud engineer. Chasing Kona."
+        subtitle: "Triathlete. Cloud engineer. Engineering the perfect race."
   zh-tw:
     languageName: "繁體中文"
     weight: 2
-    title: "Chasing Kona | 鐵人三項與生活"
+    title: "Tri Labs | 數據與耐力"
     params:
-      description: "鐵人三項選手。雲端工程師。追逐科納之夢。"
+      description: "鐵人三項選手。雲端工程師。工程化極致表現。"
       sidebar:
-        subtitle: "鐵人三項選手。雲端工程師。追逐科納之夢。"
+        subtitle: "鐵人三項選手。雲端工程師。工程化極致表現。"
   ja:
     languageName: "日本語"
     weight: 3
-    title: "Chasing Kona | トライアスロンと人生"
+    title: "Tri Labs | データと耐久力"
     params:
-      description: "トライアスリート。クラウドエンジニア。コナを目指して。"
+      description: "トライアスリート。クラウドエンジニア。完璧なレースを設計する。"
       sidebar:
-        subtitle: "トライアスリート。クラウドエンジニア。コナを目指して。"
+        subtitle: "トライアスリート。クラウドエンジニア。完璧なレースを設計する。"
 
 params:
   mainSections:
@@ -38,15 +38,15 @@ params:
   favicon: /favicon.png
 
   footer:
-    since: 2025
-    customText: "Chasing Kona 🌺"
+    since: 2026
+    customText: "Tri Labs ⚡"
 
   dateFormat:
     published: Jan 02, 2006
     lastUpdated: Jan 02, 2006 15:04 MST
 
   sidebar:
-    emoji: "🏊‍♂️"
+    emoji: "⚡"
     compact: false
 
   article:
