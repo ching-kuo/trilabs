@@ -4,7 +4,6 @@
 # Fill in the INPUT FIELDS section before giving to Kai to write the post
 title: "Week NN | [Theme — e.g., Back to Base, Pre-Race Taper]"
 date: YYYY-MM-DD
-slug: "week-NN-YYYY"
 draft: true
 categories:
     - Training Log

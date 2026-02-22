@@ -1,7 +1,6 @@
 ---
 title: "Gear"
 date: 2025-01-01
-slug: "gear"
 ---
 
 *Gear I actually use — no sponsored reviews, just honest kit.*

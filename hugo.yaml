@@ -8,6 +8,7 @@ defaultContentLanguageInSubdir: false
 
 languages:
   en:
+    contentDir: content/en
     languageName: "English"
     weight: 1
     title: "Tri Labs | Data & Endurance"
@@ -43,6 +44,7 @@ languages:
             icon: search
 
   zh-tw:
+    contentDir: content/zh-tw
     languageName: "繁體中文"
     weight: 2
     title: "Tri Labs | 數據與耐力"
@@ -54,30 +56,31 @@ languages:
       main:
         - identifier: about
           name: 關於我
-          url: /page/about/
+          url: /zh-tw/page/about/
           weight: 1
           params:
             icon: user
         - identifier: races
           name: 賽事行事曆
-          url: /page/races/
+          url: /zh-tw/page/races/
           weight: 2
           params:
             icon: date
         - identifier: gear
           name: 裝備
-          url: /page/gear/
+          url: /zh-tw/page/gear/
           weight: 3
           params:
             icon: archives
         - identifier: search
           name: 搜尋
-          url: /page/search/
+          url: /zh-tw/page/search/
           weight: 4
           params:
             icon: search
 
   ja:
+    contentDir: content/ja
     languageName: "日本語"
     weight: 3
     title: "Tri Labs | データと耐久力"
@@ -89,25 +92,25 @@ languages:
       main:
         - identifier: about
           name: About
-          url: /page/about/
+          url: /ja/page/about/
           weight: 1
           params:
             icon: user
         - identifier: races
           name: レースカレンダー
-          url: /page/races/
+          url: /ja/page/races/
           weight: 2
           params:
             icon: date
         - identifier: gear
           name: ギア
-          url: /page/gear/
+          url: /ja/page/gear/
           weight: 3
           params:
             icon: archives
         - identifier: search
           name: 検索
-          url: /page/search/
+          url: /ja/page/search/
           weight: 4
           params:
             icon: search
@@ -163,4 +166,3 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 4
-

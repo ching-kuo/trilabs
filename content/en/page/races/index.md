@@ -1,7 +1,6 @@
 ---
 title: "Race Calendar"
 date: 2025-01-01
-slug: "races"
 ---
 
 ## 2026 Race Calendar
