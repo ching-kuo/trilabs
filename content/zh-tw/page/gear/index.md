@@ -17,15 +17,16 @@ title: "裝備"
 |------|----------|------|
 | 鐵人／計時賽車 | Cervélo P5 | |
 | 訓練用公路車 | Cannondale SuperSix Evo 2020 | |
-| 空氣力學安全帽 | MET Manta | |
-| 訓練用安全帽 | MET Trenta 3K Carbon MIPS | |
+| 空氣力學安全帽 | MET Manta MIPS | [Amazon JP](https://amzn.to/4s4vk15) / [US](https://amzn.to/40lwqtl) |
+| 訓練用安全帽 | MET Trenta 3K Carbon MIPS | [Amazon US](https://amzn.to/4qNIPks) |
 | 比賽輪組 | DT Swiss ARC 1100 62mm / Reserve 52/63 | Zipp ZR1 花鼓 |
-| 比賽車胎 | Vittoria Corsa Speed 29mm | |
-| 訓練車胎 | Continental GP5000 STR 28mm | |
-| 坐墊 | Selle Italia Watt 3D / Selle Italia Boost 3D | |
-| 卡踏 | Wahoo Powrlink Zero 雙面 | 含功率計 |
-| 功率計 | Wahoo Powrlink Zero | 同卡踏 |
-| 碼表 | Garmin Edge 850 / Edge 1040 Solar | [Amazon JP](https://amzn.to/4aJcq8H) / [US](https://amzn.to/4aw4eKr) |
+| 比賽車胎 | Vittoria Corsa Pro Speed 29c | [Amazon JP](https://amzn.to/4aEB1wZ) / [US](https://amzn.to/4kMvRCt) |
+| 訓練車胎 | Continental GP5000 STR 28mm | [Amazon JP](https://amzn.to/4rySahs) / [US](https://amzn.to/4b3s00n) |
+| 坐墊 (Tri) | Selle Italia Watt 3D | [Amazon JP](https://amzn.to/4b3s4NF) / [US](https://amzn.to/4kOXaf7) |
+| 坐墊 (Road) | Selle Italia Boost 3D | [Amazon JP](https://amzn.to/4tOJGEh) / [US](https://amzn.to/3OrrO2h) |
+| 卡踏／功率計 | Wahoo Powrlink Zero 雙面 | [Amazon JP](https://amzn.to/4kS1aM6) |
+| 碼表 | Garmin Edge 850 | [Amazon JP](https://amzn.to/4aJcq8H) / [US](https://amzn.to/4aw4eKr) |
+| 碼表 | Garmin Edge 1040 Solar | [Amazon JP](https://amzn.to/3Mr3NrA) / [US](https://amzn.to/4aADJC4) |
 | 自行車 Fitting | ✅ 已完成 | |
 
 ## 🏃 跑步
@@ -37,14 +38,14 @@ title: "裝備"
 
 ## ⌚ 科技裝置
 
-| 項目 | 品牌／型號 |
-|------|----------|
-| GPS 運動錶 | Garmin Fēnix 8 | [Amazon JP](https://amzn.to/4qQwb4n) |
-| 心率帶 | Garmin HRM Pro |
-| 智慧訓練台 | Tacx NEO 2T |
-| 訓練台軟體 | Zwift |
-| 訓練記錄平台 | TrainingPeaks |
-| 數據同步 | Garmin Connect |
+| 項目 | 品牌／型號 | 備註 |
+|------|----------|------|
+| GPS 運動錶 | Garmin Fēnix 8 | [Amazon JP](https://amzn.to/4qQwoVd) / [US](https://amzn.to/3OENxUl) |
+| 心率帶 | Garmin HRM Pro Plus | [Amazon JP](https://amzn.to/4s3xbmC) / [US](https://amzn.to/4s9eWwq) |
+| 智慧訓練台 | Tacx NEO 2T | [Amazon JP](https://amzn.to/4rx282U) / [US](https://amzn.to/4rySexI) |
+| 訓練台軟體 | Zwift | |
+| 訓練記錄平台 | TrainingPeaks | |
+| 數據同步 | Garmin Connect | |
 
 ## 🧴 營養與恢復
 

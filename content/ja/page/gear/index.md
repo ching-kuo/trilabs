@@ -17,15 +17,16 @@ title: "ギア"
 |---------|-------------|------|
 | トライアスロン／TTバイク | Cervélo P5 | |
 | ロードバイク（練習用） | Cannondale SuperSix Evo 2020 | |
-| エアロヘルメット | MET Manta | |
-| ロードヘルメット | MET Trenta 3K Carbon MIPS | |
+| エアロヘルメット | MET Manta MIPS | [Amazon JP](https://amzn.to/4s4vk15) / [US](https://amzn.to/40lwqtl) |
+| ロードヘルメット | MET Trenta 3K Carbon MIPS | [Amazon US](https://amzn.to/4qNIPks) |
 | レースホイール | DT Swiss ARC 1100 62mm / Reserve 52/63 | Zipp ZR1ハブ |
-| レースタイヤ | Vittoria Corsa Speed 29mm | |
-| 練習用タイヤ | Continental GP5000 STR 28mm | |
-| サドル | Selle Italia Watt 3D / Selle Italia Boost 3D | |
-| ペダル | Wahoo Powrlink Zero 両面 | パワーメーター内蔵 |
-| パワーメーター | Wahoo Powrlink Zero | ペダルと一体型 |
-| サイクルコンピュータ | Garmin Edge 850 / Edge 1040 Solar | [Amazon JP](https://amzn.to/4aJcq8H) / [US](https://amzn.to/4aw4eKr) |
+| レースタイヤ | Vittoria Corsa Pro Speed 29c | [Amazon JP](https://amzn.to/4aEB1wZ) / [US](https://amzn.to/4kMvRCt) |
+| 練習用タイヤ | Continental GP5000 STR 28mm | [Amazon JP](https://amzn.to/4rySahs) / [US](https://amzn.to/4b3s00n) |
+| サドル (Tri) | Selle Italia Watt 3D | [Amazon JP](https://amzn.to/4b3s4NF) / [US](https://amzn.to/4kOXaf7) |
+| サドル (Road) | Selle Italia Boost 3D | [Amazon JP](https://amzn.to/4tOJGEh) / [US](https://amzn.to/3OrrO2h) |
+| ペダル／パワーメーター | Wahoo Powrlink Zero 両面 | [Amazon JP](https://amzn.to/4kS1aM6) |
+| サイクルコンピュータ | Garmin Edge 850 | [Amazon JP](https://amzn.to/4aJcq8H) / [US](https://amzn.to/4aw4eKr) |
+| サイクルコンピュータ | Garmin Edge 1040 Solar | [Amazon JP](https://amzn.to/3Mr3NrA) / [US](https://amzn.to/4aADJC4) |
 | バイクフィッティング | ✅ 実施済み | |
 
 ## 🏃 ラン
@@ -37,14 +38,14 @@ title: "ギア"
 
 ## ⌚ テック＆電子機器
 
-| アイテム | ブランド／モデル |
-|---------|-------------|
-| GPSウォッチ | Garmin Fēnix 8 | [Amazon JP](https://amzn.to/4qQwb4n) |
-| 心拍センサー | Garmin HRM Pro |
-| スマートトレーナー | Tacx NEO 2T |
-| トレーニングアプリ | Zwift |
-| トレーニング管理 | TrainingPeaks |
-| データ同期 | Garmin Connect |
+| アイテム | ブランド／モデル | メモ |
+|---------|-------------|------|
+| GPSウォッチ | Garmin Fēnix 8 | [Amazon JP](https://amzn.to/4qQwoVd) / [US](https://amzn.to/3OENxUl) |
+| 心拍センサー | Garmin HRM Pro Plus | [Amazon JP](https://amzn.to/4s3xbmC) / [US](https://amzn.to/4s9eWwq) |
+| スマートトレーナー | Tacx NEO 2T | [Amazon JP](https://amzn.to/4rx282U) / [US](https://amzn.to/4rySexI) |
+| トレーニングアプリ | Zwift | |
+| トレーニング管理 | TrainingPeaks | |
+| データ同期 | Garmin Connect | |
 
 ## 🧴 栄養＆リカバリー
 

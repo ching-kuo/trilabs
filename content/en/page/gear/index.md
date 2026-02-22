@@ -17,15 +17,16 @@ title: "Gear"
 |------|--------------|-------|
 | Tri / TT bike | Cervélo P5 | |
 | Road bike (training) | Cannondale SuperSix Evo 2020 | |
-| Aero helmet | MET Manta | |
-| Road helmet | MET Trenta 3K Carbon MIPS | |
+| Aero helmet | MET Manta MIPS | [Amazon JP](https://amzn.to/4s4vk15) / [US](https://amzn.to/40lwqtl) |
+| Road helmet | MET Trenta 3K Carbon MIPS | [Amazon US](https://amzn.to/4qNIPks) |
 | Race wheels | DT Swiss ARC 1100 62mm / Reserve 52/63 | Zipp ZR1 hub |
-| Tires (race) | Vittoria Corsa Speed 29mm | |
-| Tires (training) | Continental GP5000 STR 28mm | |
-| Saddle | Selle Italia Watt 3D / Selle Italia Boost 3D | |
-| Pedals | Wahoo Powrlink Zero Dual-Sided | Power meter integrated |
-| Power meter | Wahoo Powrlink Zero | Same as pedals |
-| Bike computer | Garmin Edge 850 / Edge 1040 Solar | [Amazon US](https://amzn.to/4aw4eKr) / [JP](https://amzn.to/4aJcq8H) |
+| Tires (race) | Vittoria Corsa Pro Speed 29c | [Amazon JP](https://amzn.to/4aEB1wZ) / [US](https://amzn.to/4kMvRCt) |
+| Tires (training) | Continental GP5000 STR 28mm | [Amazon JP](https://amzn.to/4rySahs) / [US](https://amzn.to/4b3s00n) |
+| Saddle (Tri) | Selle Italia Watt 3D | [Amazon JP](https://amzn.to/4b3s4NF) / [US](https://amzn.to/4kOXaf7) |
+| Saddle (Road) | Selle Italia Boost 3D | [Amazon JP](https://amzn.to/4tOJGEh) / [US](https://amzn.to/3OrrO2h) |
+| Pedals / Power Meter | Wahoo Powrlink Zero Dual-Sided | [Amazon JP](https://amzn.to/4kS1aM6) |
+| Bike computer | Garmin Edge 850 | [Amazon JP](https://amzn.to/4aJcq8H) / [US](https://amzn.to/4aw4eKr) |
+| Bike computer | Garmin Edge 1040 Solar | [Amazon JP](https://amzn.to/3Mr3NrA) / [US](https://amzn.to/4aADJC4) |
 | Bike fit | ✅ Done | |
 
 ## 🏃 Run
@@ -37,14 +38,14 @@ title: "Gear"
 
 ## ⌚ Tech & Electronics
 
-| Item | Brand / Model |
-|------|--------------|
-| GPS watch | Garmin Fēnix 8 | [Amazon JP](https://amzn.to/4qQwb4n) |
-| Heart rate strap | Garmin HRM Pro |
-| Smart trainer | Tacx NEO 2T |
-| Cycling app | Zwift |
-| Training platform | TrainingPeaks |
-| Data sync | Garmin Connect |
+| Item | Brand / Model | Notes |
+|------|--------------|-------|
+| GPS watch | Garmin Fēnix 8 | [Amazon JP](https://amzn.to/4qQwoVd) / [US](https://amzn.to/3OENxUl) |
+| Heart rate strap | Garmin HRM Pro Plus | [Amazon JP](https://amzn.to/4s3xbmC) / [US](https://amzn.to/4s9eWwq) |
+| Smart trainer | Tacx NEO 2T | [Amazon JP](https://amzn.to/4rx282U) / [US](https://amzn.to/4rySexI) |
+| Cycling app | Zwift | |
+| Training platform | TrainingPeaks | |
+| Data sync | Garmin Connect | |
 
 ## 🧴 Nutrition & Recovery
 
