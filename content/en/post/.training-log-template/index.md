@@ -3,7 +3,6 @@
 # Usage: copy folder, rename to training-log-YYYY-WNN, remove leading dot
 # Fill in the INPUT FIELDS section before giving to Kai to write the post
 title: "Week NN | [Theme — e.g., Back to Base, Pre-Race Taper]"
-date: YYYY-MM-DD
 draft: true
 categories:
     - Training Log

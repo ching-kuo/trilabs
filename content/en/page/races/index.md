@@ -1,13 +1,12 @@
 ---
 title: "Race Calendar"
-date: 2025-01-01
 ---
 
 ## 2026 Race Calendar
 
 | Race | Distance | Date | Location | Goal |
 |------|----------|------|----------|------|
-| TBD | 70.3 | — | — | A Race |
+| Miyako Triathlon | Olympic | Apr 19, 2026 | Miyako Island, Okinawa | Finish strong, blog it |
 
 ## Goals
 
