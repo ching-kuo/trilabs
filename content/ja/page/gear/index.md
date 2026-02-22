@@ -28,7 +28,7 @@ menu:
 | トライアスロン／TTバイク | Cervélo P5 | — |
 | ロードバイク（練習用） | Cannondale SuperSix Evo 2020 | — |
 | エアロヘルメット | MET Manta | — |
-| ロードヘルメット | MET Trenta 3K Carbon | ¹ |
+| ロードヘルメット | MET Trenta 3K Carbon MIPS | — |
 | レースホイール | DT Swiss ARC 1100 62mm / Reserve 52/63 | Zipp ZR1ハブ |
 | 練習用ホイール | — | — |
 | レースタイヤ | Vittoria Corsa Speed 29mm | — |
@@ -36,7 +36,7 @@ menu:
 | サドル | Selle Italia Watt 3D / Selle Italia Boost 3D | — |
 | ペダル | Wahoo Powrlink Zero 両面 | パワーメーター内蔵 |
 | パワーメーター | Wahoo Powrlink Zero | ペダルと一体型 |
-| サイクルコンピュータ | Garmin Edge 840 / Edge 1040 Solar | ² |
+| サイクルコンピュータ | Garmin Edge 850 / Edge 1040 Solar | — |
 | バイクフィッティング | ✅ 実施済み | — |
 
 ## 🏃 ラン
@@ -44,7 +44,7 @@ menu:
 | アイテム | ブランド／モデル | メモ |
 |---------|-------------|------|
 | レースシューズ | Adidas Adizero Adios Pro 4 / ASICS Metaspeed Edge Tokyo | — |
-| 練習用シューズ | ASICS ³ | — |
+| 練習用シューズ | ASICS MEGABLAST™ | プレートなしスーパートレーナー |
 | ランベスト／ベルト | — | — |
 
 ## ⌚ テック＆電子機器
@@ -73,18 +73,13 @@ menu:
 
 | アイテム | ブランド／モデル | メモ |
 |---------|-------------|------|
-| トライスーツ | HUUB Anemoi 2.22 Plus Bonded | — |
+| トライスーツ | HUUB Anemoi 2 | 22PLUS Tri Suit | — |
 | トランジションバッグ | — | — |
 | レースベルト | — | — |
 | ボディグライド／摩擦防止剤 | — | — |
 | 日焼け止め | — | — |
 
 ---
-
-**注記**  
-¹ *MET Trenta 3K Carbon — MIPSバージョン要確認*  
-² *Garmin Edgeモデル要確認 — Edge 840またはEdge 1040 Solar*  
-³ *練習用シューズのモデル要確認*
 
 ---
 

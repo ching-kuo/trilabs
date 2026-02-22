@@ -28,7 +28,7 @@ menu:
 | 鐵人／計時賽車 | Cervélo P5 | — |
 | 訓練用公路車 | Cannondale SuperSix Evo 2020 | — |
 | 空氣力學安全帽 | MET Manta | — |
-| 訓練用安全帽 | MET Trenta 3K Carbon | ¹ |
+| 訓練用安全帽 | MET Trenta 3K Carbon MIPS | — |
 | 比賽輪組 | DT Swiss ARC 1100 62mm / Reserve 52/63 | Zipp ZR1 花鼓 |
 | 訓練輪組 | — | — |
 | 比賽車胎 | Vittoria Corsa Speed 29mm | — |
@@ -36,7 +36,7 @@ menu:
 | 坐墊 | Selle Italia Watt 3D / Selle Italia Boost 3D | — |
 | 卡踏 | Wahoo Powrlink Zero 雙面 | 含功率計 |
 | 功率計 | Wahoo Powrlink Zero | 同卡踏 |
-| 碼表 | Garmin Edge 840 / Edge 1040 Solar | ² |
+| 碼表 | Garmin Edge 850 / Edge 1040 Solar | — |
 | 自行車 Fitting | ✅ 已完成 | — |
 
 ## 🏃 跑步
@@ -44,7 +44,7 @@ menu:
 | 項目 | 品牌／型號 | 備註 |
 |------|----------|------|
 | 比賽跑鞋 | Adidas Adizero Adios Pro 4 / ASICS Metaspeed Edge Tokyo | — |
-| 訓練跑鞋 | ASICS ³ | — |
+| 訓練跑鞋 | ASICS MEGABLAST™ | 無碳板超訓練鞋 |
 | 補給背心／腰帶 | — | — |
 
 ## ⌚ 科技裝置
@@ -73,18 +73,13 @@ menu:
 
 | 項目 | 品牌／型號 | 備註 |
 |------|----------|------|
-| 鐵人連身服 | HUUB Anemoi 2.22 Plus Bonded | — |
+| 鐵人連身服 | HUUB Anemoi 2 | 22PLUS Tri Suit | — |
 | 轉換袋 | — | — |
 | 號碼帶 | — | — |
 | 防磨膏 | — | — |
 | 防曬乳 | — | — |
 
 ---
-
-**備註**  
-¹ *MET Trenta 3K Carbon — MIPS 版本待確認*  
-² *Garmin Edge 型號待確認 — Edge 840 或 Edge 1040 Solar*  
-³ *訓練跑鞋型號待確認*
 
 ---
 

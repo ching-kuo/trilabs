@@ -28,7 +28,7 @@ menu:
 | Tri / TT bike | Cervélo P5 | — |
 | Road bike (training) | Cannondale SuperSix Evo 2020 | — |
 | Aero helmet | MET Manta | — |
-| Road helmet | MET Trenta 3K Carbon | ¹ |
+| Road helmet | MET Trenta 3K Carbon MIPS | — |
 | Race wheels | DT Swiss ARC 1100 62mm / Reserve 52/63 | Zipp ZR1 hub |
 | Training wheels | — | — |
 | Tires (race) | Vittoria Corsa Speed 29mm | — |
@@ -36,7 +36,7 @@ menu:
 | Saddle | Selle Italia Watt 3D / Selle Italia Boost 3D | — |
 | Pedals | Wahoo Powrlink Zero Dual-Sided | Power meter integrated |
 | Power meter | Wahoo Powrlink Zero | Same as pedals |
-| Bike computer | Garmin Edge 840 / Edge 1040 Solar | ² |
+| Bike computer | Garmin Edge 850 / Edge 1040 Solar | — |
 | Bike fit | ✅ Done | — |
 
 ## 🏃 Run
@@ -44,7 +44,7 @@ menu:
 | Item | Brand / Model | Notes |
 |------|--------------|-------|
 | Race shoes | Adidas Adizero Adios Pro 4 / ASICS Metaspeed Edge Tokyo | — |
-| Training shoes | ASICS ³ | — |
+| Training shoes | ASICS MEGABLAST™ | Plate-free super trainer |
 | Running vest / belt | — | — |
 
 ## ⌚ Tech & Electronics
@@ -73,18 +73,13 @@ menu:
 
 | Item | Brand / Model | Notes |
 |------|--------------|-------|
-| Trisuit | HUUB Anemoi 2.22 Plus Bonded | — |
+| Trisuit | HUUB Anemoi 2 | 22PLUS Tri Suit | — |
 | Transition bag | — | — |
 | Race belt | — | — |
 | Body glide / anti-chafe | — | — |
 | Sunscreen | — | — |
 
 ---
-
-**Notes**
-¹ *MET Trenta 3K Carbon — possibly MIPS variant, to be confirmed*  
-² *Garmin Edge model TBC — Edge 840 or Edge 1040 Solar*  
-³ *Training shoe model to be confirmed*
 
 ---
 
