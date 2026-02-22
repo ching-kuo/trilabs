@@ -2,11 +2,6 @@
 title: "About"
 date: 2025-01-01
 slug: "about"
-menu:
-    main:
-        weight: -90
-        params:
-            icon: user
 ---
 
 こんにちは、Ching Kuo です。台湾出身、東京在住のトライアスリートでありクラウドインフラエンジニアです。

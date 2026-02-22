@@ -2,11 +2,6 @@
 title: "賽事行事曆"
 date: 2025-01-01
 slug: "races"
-menu:
-    main:
-        weight: -80
-        params:
-            icon: date
 ---
 
 ## 2026 賽事行事曆

@@ -15,6 +15,33 @@ languages:
       description: "Triathlete. Cloud engineer. Engineering the perfect race."
       sidebar:
         subtitle: "Triathlete. Cloud engineer. Engineering the perfect race."
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /page/about/
+          weight: 1
+          params:
+            icon: user
+        - identifier: races
+          name: Race Calendar
+          url: /page/races/
+          weight: 2
+          params:
+            icon: date
+        - identifier: gear
+          name: Gear
+          url: /page/gear/
+          weight: 3
+          params:
+            icon: archives
+        - identifier: search
+          name: Search
+          url: /page/search/
+          weight: 4
+          params:
+            icon: search
+
   zh-tw:
     languageName: "繁體中文"
     weight: 2
@@ -23,6 +50,33 @@ languages:
       description: "鐵人三項選手。雲端工程師。工程化極致表現。"
       sidebar:
         subtitle: "鐵人三項選手。雲端工程師。工程化極致表現。"
+    menu:
+      main:
+        - identifier: about
+          name: 關於我
+          url: /page/about/
+          weight: 1
+          params:
+            icon: user
+        - identifier: races
+          name: 賽事行事曆
+          url: /page/races/
+          weight: 2
+          params:
+            icon: date
+        - identifier: gear
+          name: 裝備
+          url: /page/gear/
+          weight: 3
+          params:
+            icon: archives
+        - identifier: search
+          name: 搜尋
+          url: /page/search/
+          weight: 4
+          params:
+            icon: search
+
   ja:
     languageName: "日本語"
     weight: 3
@@ -31,6 +85,32 @@ languages:
       description: "トライアスリート。クラウドエンジニア。完璧なレースを設計する。"
       sidebar:
         subtitle: "トライアスリート。クラウドエンジニア。完璧なレースを設計する。"
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /page/about/
+          weight: 1
+          params:
+            icon: user
+        - identifier: races
+          name: レースカレンダー
+          url: /page/races/
+          weight: 2
+          params:
+            icon: date
+        - identifier: gear
+          name: ギア
+          url: /page/gear/
+          weight: 3
+          params:
+            icon: archives
+        - identifier: search
+          name: 検索
+          url: /page/search/
+          weight: 4
+          params:
+            icon: search
 
 params:
   mainSections:

@@ -2,11 +2,6 @@
 title: "裝備"
 date: 2025-01-01
 slug: "gear"
-menu:
-    main:
-        weight: -75
-        params:
-            icon: archives
 ---
 
 *實際在用的裝備 — 沒有業配，只有真實心得。*

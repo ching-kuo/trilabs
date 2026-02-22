@@ -2,11 +2,6 @@
 title: "ギア"
 date: 2025-01-01
 slug: "gear"
-menu:
-    main:
-        weight: -75
-        params:
-            icon: archives
 ---
 
 *実際に使っているギアだけ — スポンサーなし、正直なレビュー。*

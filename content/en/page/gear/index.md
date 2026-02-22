@@ -2,11 +2,6 @@
 title: "Gear"
 date: 2025-01-01
 slug: "gear"
-menu:
-    main:
-        weight: -75
-        params:
-            icon: archives
 ---
 
 *Gear I actually use — no sponsored reviews, just honest kit.*
@@ -17,9 +12,6 @@ menu:
 |------|--------------|-------|
 | Jammer | Speedo Flex Sigma V Jammer II | [Amazon JP](https://amzn.asia/d/0ivIKKhS) |
 | Goggles | THEMAGIC5 | Custom-fit to face scan — zero leaks |
-| Swim cap | — | — |
-| Pull buoy | — | — |
-| Training fins | — | — |
 
 ## 🚴 Bike
 
@@ -30,7 +22,6 @@ menu:
 | Aero helmet | MET Manta | — |
 | Road helmet | MET Trenta 3K Carbon MIPS | — |
 | Race wheels | DT Swiss ARC 1100 62mm / Reserve 52/63 | Zipp ZR1 hub |
-| Training wheels | — | — |
 | Tires (race) | Vittoria Corsa Speed 29mm | — |
 | Tires (training) | Continental GP5000 STR 28mm | — |
 | Saddle | Selle Italia Watt 3D / Selle Italia Boost 3D | — |
@@ -45,7 +36,6 @@ menu:
 |------|--------------|-------|
 | Race shoes | Adidas Adizero Adios Pro 4 / ASICS Metaspeed Edge Tokyo | — |
 | Training shoes | ASICS MEGABLAST™ | Plate-free super trainer |
-| Running vest / belt | — | — |
 
 ## ⌚ Tech & Electronics
 
@@ -64,20 +54,12 @@ menu:
 |------|--------------|-------|
 | Race gels | Maurten | Science-backed hydrogel formula |
 | Race gels (local) | 碳水炸彈 蜂蜜檸檬 (Carbo Bomb Honey Lemon) | Taiwan brand |
-| Electrolytes | — | — |
-| Compression sleeves | — | — |
-| Foam roller | — | — |
-| Massage gun | — | — |
 
 ## 🧳 Race Day
 
 | Item | Brand / Model | Notes |
 |------|--------------|-------|
 | Trisuit | HUUB Anemoi 2 | 22PLUS Tri Suit | — |
-| Transition bag | — | — |
-| Race belt | — | — |
-| Body glide / anti-chafe | — | — |
-| Sunscreen | — | — |
 
 ---
 

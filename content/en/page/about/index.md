@@ -2,11 +2,6 @@
 title: "About"
 date: 2025-01-01
 slug: "about"
-menu:
-    main:
-        weight: -90
-        params:
-            icon: user
 ---
 
 Hi, I am Ching Kuo — a triathlete and cloud infrastructure engineer based in Tokyo, Japan. Originally from Taiwan.

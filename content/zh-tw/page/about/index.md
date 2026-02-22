@@ -2,11 +2,6 @@
 title: "關於我"
 date: 2025-01-01
 slug: "about"
-menu:
-    main:
-        weight: -90
-        params:
-            icon: user
 ---
 
 你好，我是 Ching Kuo — 旅居東京的鐵人三項選手與雲端基礎架構工程師，台灣人。
