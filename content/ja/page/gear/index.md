@@ -25,7 +25,7 @@ title: "ギア"
 | サドル | Selle Italia Watt 3D / Selle Italia Boost 3D | |
 | ペダル | Wahoo Powrlink Zero 両面 | パワーメーター内蔵 |
 | パワーメーター | Wahoo Powrlink Zero | ペダルと一体型 |
-| サイクルコンピュータ | Garmin Edge 850 / Edge 1040 Solar | |
+| サイクルコンピュータ | Garmin Edge 850 / Edge 1040 Solar | [Amazon JP](https://amzn.to/4aJcq8H) / [US](https://amzn.to/4aw4eKr) |
 | バイクフィッティング | ✅ 実施済み | |
 
 ## 🏃 ラン
@@ -39,7 +39,7 @@ title: "ギア"
 
 | アイテム | ブランド／モデル |
 |---------|-------------|
-| GPSウォッチ | Garmin Fēnix 8 |
+| GPSウォッチ | Garmin Fēnix 8 | [Amazon JP](https://amzn.to/4qQwb4n) |
 | 心拍センサー | Garmin HRM Pro |
 | スマートトレーナー | Tacx NEO 2T |
 | トレーニングアプリ | Zwift |

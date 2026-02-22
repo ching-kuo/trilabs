@@ -25,7 +25,7 @@ title: "裝備"
 | 坐墊 | Selle Italia Watt 3D / Selle Italia Boost 3D | |
 | 卡踏 | Wahoo Powrlink Zero 雙面 | 含功率計 |
 | 功率計 | Wahoo Powrlink Zero | 同卡踏 |
-| 碼表 | Garmin Edge 850 / Edge 1040 Solar | |
+| 碼表 | Garmin Edge 850 / Edge 1040 Solar | [Amazon JP](https://amzn.to/4aJcq8H) / [US](https://amzn.to/4aw4eKr) |
 | 自行車 Fitting | ✅ 已完成 | |
 
 ## 🏃 跑步
@@ -39,7 +39,7 @@ title: "裝備"
 
 | 項目 | 品牌／型號 |
 |------|----------|
-| GPS 運動錶 | Garmin Fēnix 8 |
+| GPS 運動錶 | Garmin Fēnix 8 | [Amazon JP](https://amzn.to/4qQwb4n) |
 | 心率帶 | Garmin HRM Pro |
 | 智慧訓練台 | Tacx NEO 2T |
 | 訓練台軟體 | Zwift |
