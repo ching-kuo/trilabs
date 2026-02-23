@@ -5,6 +5,10 @@ theme: "stack"
 
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: false
+enableRobotsTXT: true
+
+permalinks:
+  post: "/:year/:slug/"
 
 languages:
   en:
@@ -116,6 +120,7 @@ languages:
             icon: search
 
 params:
+  author: "Ching Kuo"
   mainSections:
     - post
   favicon: /favicon.png
