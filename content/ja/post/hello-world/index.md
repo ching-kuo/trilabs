@@ -5,7 +5,7 @@ draft: false
 slug: "hello-world"
 categories: ["Training"]
 tags: ["Triathlon", "Ironman", "Miyako", "Gear"]
-image: cervelo-p5.jpg
+image: /images/hello-world/cervelo-p5.webp
 ---
 
 こんにちは、現在東京に住んでいる Ching Kuo です。
@@ -28,7 +28,7 @@ image: cervelo-p5.jpg
 
 機材に関しては「ブランドにこだわらず、データと実際の効果だけを見る」というのが私の哲学です。ここでは、自腹で購入し、実際に使っているものについての率直な感想だけをシェアします。現在の私のセットアップに興味がある方は、更新したばかりの[機材リスト](/gear/)をご覧ください。
 
-![宮古島トライアスロン バイクパート Cervélo P5](cervelo-p5.jpg)
+![宮古島トライアスロン バイクパート Cervélo P5](/images/hello-world/cervelo-p5.webp)
 
 ## Next Deploy: 宮古島トライアスロン
 
@@ -39,7 +39,7 @@ image: cervelo-p5.jpg
 1. **炭水化物:** 1時間に80〜90gの高炭水化物補給を実行する予定です（MaurtenとCarbo Bombジェルの実戦での吸収率をテストします）。
 2. **水分とカフェイン:** 昨年の悲劇を繰り返さないよう、厳密な水分補給計画とカフェイン摂取のタイミングを確立します。
 
-![第39回宮古島トライアスロン フィニッシュ](miyako-finish.jpg)
+![第39回宮古島トライアスロン フィニッシュ](/images/hello-world/miyako-finish.webp)
 
 ## What's Next 
 

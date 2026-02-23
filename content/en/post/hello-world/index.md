@@ -5,7 +5,7 @@ draft: false
 slug: "hello-world"
 categories: ["Training"]
 tags: ["Triathlon", "Ironman", "Miyako", "Gear"]
-image: cervelo-p5.jpg
+image: /images/hello-world/cervelo-p5.webp
 ---
 
 Hi, I'm Ching Kuo, currently living in Tokyo.
@@ -28,7 +28,7 @@ My training "tech stack" architecture is straightforward: my Garmin watch and bi
 
 When it comes to gear, my philosophy is: no brand loyalty, just data and real-world results. I will only share honest thoughts on things I actually bought and use. If you're curious about my current setup, check out my recently updated [Gear List](/gear/).
 
-![Riding the Cervélo P5 at Miyako Triathlon](cervelo-p5.jpg)
+![Riding the Cervélo P5 at Miyako Triathlon](/images/hello-world/cervelo-p5.webp)
 
 ## Next Deploy: Miyako Triathlon
 
@@ -39,7 +39,7 @@ This race will be a great opportunity to benchmark my current state. Last year, 
 1. **Carbohydrates:** Planning to execute a high-carb strategy of 80-90g per hour (testing the real-world absorption rate of Maurten and Carbo Bomb gels).
 2. **Hydration & Caffeine:** Establishing a strict hydration plan and caffeine intake timing to avoid repeating last year's tragedy.
 
-![Crossing the finish line at the 39th Miyako Triathlon](miyako-finish.jpg)
+![Crossing the finish line at the 39th Miyako Triathlon](/images/hello-world/miyako-finish.webp)
 
 ## What's Next 
 

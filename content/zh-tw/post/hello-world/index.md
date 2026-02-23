@@ -5,7 +5,7 @@ draft: false
 slug: "hello-world"
 categories: ["Training"]
 tags: ["Triathlon", "Ironman", "Miyako", "Gear"]
-image: cervelo-p5.jpg
+image: /images/hello-world/cervelo-p5.webp
 ---
 
 大家好，我是 Ching Kuo，目前住在東京。
@@ -28,7 +28,7 @@ image: cervelo-p5.jpg
 
 對於裝備，我的態度是：不迷信品牌，只看數據與實際效益。在這裡我只會分享我自費購買、實際在用的東西。如果你好奇我目前的配置，可以先看看我剛整理好的[裝備清單](/gear/)。
 
-![宮古島鐵人三項自行車賽段 Cervélo P5](cervelo-p5.jpg)
+![宮古島鐵人三項自行車賽段 Cervélo P5](/images/hello-world/cervelo-p5.webp)
 
 ## Next Deploy：宮古島鐵人三項 (Miyako Triathlon)
 
@@ -39,7 +39,7 @@ image: cervelo-p5.jpg
 1. **碳水化合物：** 預計執行每小時 80-90g 的高碳水補給（測試 Maurten 與碳水炸彈能量膠的實戰吸收率）。
 2. **水分與咖啡因：** 制定嚴格的進水計畫與咖啡因攝取時機，避免去年的悲劇重演。
 
-![第39屆宮古島鐵人三項衝線時刻](miyako-finish.jpg)
+![第39屆宮古島鐵人三項衝線時刻](/images/hello-world/miyako-finish.webp)
 
 ## What's Next 
 
