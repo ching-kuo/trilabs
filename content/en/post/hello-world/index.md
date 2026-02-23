@@ -36,7 +36,7 @@ My next major "deploy" is the Miyako Triathlon on April 19.
 
 This race will be a great opportunity to benchmark my current state. Last year, around the 15-30km mark of the run, I blew up entirely because I was drinking fluids too casually. This time, I will be hyper-focused on run pacing and nutrition strategy:
 
-1. **Carbohydrates:** Planning to execute a high-carb strategy of 80-90g per hour (testing the real-world absorption rate of Maurten and Carbo Bomb gels).
+1. **Carbohydrates:** Planning to execute a high-carb strategy of 80-90g per hour (testing the real-world absorption rate of Maurten and CALBOMB gels).
 2. **Hydration & Caffeine:** Establishing a strict hydration plan and caffeine intake timing to avoid repeating last year's tragedy.
 
 ![Crossing the finish line at the 39th Miyako Triathlon](/images/hello-world/miyako-finish.webp)
