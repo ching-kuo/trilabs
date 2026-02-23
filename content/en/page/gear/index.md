@@ -52,7 +52,7 @@ title: "Gear"
 | Item | Brand / Model | Notes |
 |------|--------------|-------|
 | Race gels | Maurten | Science-backed hydrogel formula |
-| Race gels (local) | 碳水炸彈 蜂蜜檸檬 (Carbo Bomb Honey Lemon) | Taiwan brand |
+| Race gels (local) | 碳水炸彈 蜂蜜檸檬 (CALBOMB Honey Lemon) | Taiwan brand |
 
 ## 🧳 Race Day
 
