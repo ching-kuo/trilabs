@@ -5,7 +5,7 @@ draft: false
 slug: "running-form-review"
 categories: ["跑步", "訓練"]
 tags: ["跑姿", "跑步力學", "肌力", "gait analysis", "triathlon"]
-image: /img/running-mechanics/side-view-initial-contact.webp
+image: side-view-initial-contact.webp
 ---
 
 在跑步訓練中，大家常討論步頻（cadence）、步幅、落地方式，或是該不該「改跑姿」。但實際上，跑步動作並不是只靠肉眼看到的姿勢就能完整判斷，而是由活動度、肌力、協調能力與訓練背景共同形成的結果。

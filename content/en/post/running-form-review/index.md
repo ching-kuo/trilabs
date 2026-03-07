@@ -5,7 +5,7 @@ draft: false
 slug: "running-form-review"
 categories: ["Running", "Training"]
 tags: ["running form", "running mechanics", "strength", "gait analysis", "triathlon"]
-image: /img/running-mechanics/side-view-initial-contact.webp
+image: side-view-initial-contact.webp
 ---
 
 In running training, people often talk about cadence, stride length, foot strike, or whether they should "fix" their form. In reality, though, running form cannot be judged by posture alone. It is the result of mobility, strength, coordination, and training context working together.

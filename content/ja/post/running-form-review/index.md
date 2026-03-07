@@ -5,7 +5,7 @@ draft: false
 slug: "running-form-review"
 categories: ["ランニング", "トレーニング"]
 tags: ["ランニングフォーム", "ランニングメカニクス", "筋力", "gait analysis", "triathlon"]
-image: /img/running-mechanics/side-view-initial-contact.webp
+image: side-view-initial-contact.webp
 ---
 
 ランニングのトレーニングでは、ケイデンス、ストライド、着地の仕方、あるいは「フォームを直すべきか」といった話題がよく出てきます。ただ実際には、ランニングフォームは見た目の姿勢だけで判断できるものではありません。可動域、筋力、協調性、そしてトレーニングの文脈が合わさって、最終的な動きとして現れるものです。
