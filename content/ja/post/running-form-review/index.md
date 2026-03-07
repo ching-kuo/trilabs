@@ -1,7 +1,7 @@
 ---
 title: "可動域、筋力、フォームまで：ランニングメカニクス評価を通して見えたこと"
 date: 2026-03-07T21:00:00+09:00
-draft: true
+draft: false
 slug: "running-form-review"
 categories: ["ランニング", "トレーニング"]
 tags: ["ランニングフォーム", "ランニングメカニクス", "筋力", "gait analysis", "triathlon"]

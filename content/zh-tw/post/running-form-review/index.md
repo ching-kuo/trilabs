@@ -1,7 +1,7 @@
 ---
 title: "從活動度、肌力到跑姿：一次跑步力學評估的完整觀察"
 date: 2026-03-07T21:00:00+09:00
-draft: true
+draft: false
 slug: "running-form-review"
 categories: ["跑步", "訓練"]
 tags: ["跑姿", "跑步力學", "肌力", "gait analysis", "triathlon"]

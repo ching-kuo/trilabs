@@ -1,7 +1,7 @@
 ---
 title: "From Mobility and Strength to Running Form: A Full Running Mechanics Assessment"
 date: 2026-03-07T21:00:00+09:00
-draft: true
+draft: false
 slug: "running-form-review"
 categories: ["Running", "Training"]
 tags: ["running form", "running mechanics", "strength", "gait analysis", "triathlon"]
