@@ -58,8 +58,6 @@ image: /img/running-mechanics/side-view-initial-contact.webp
   Your browser does not support the video tag.
 </video>
 
-![後視角可用來觀察左右支撐差異、足部軌跡，以及上半身在跑步時的整體穩定性。](/img/running-mechanics/rear-view-sequence.webp)
-
 ## 比起刻意改跑姿，更重要的是提升支撐這個跑姿的能力
 
 做完這次評估之後，我最大的感想是：**我的跑姿沒有明顯的大問題，但左右力量差異值得優先處理。**

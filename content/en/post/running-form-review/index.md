@@ -58,8 +58,6 @@ As for the mild right-side pronation and slight toe-out that appeared occasional
   Your browser does not support the video tag.
 </video>
 
-![Rear view useful for observing left-right support differences, foot path, and overall upper-body stability while running.](/img/running-mechanics/rear-view-sequence.webp)
-
 ## More important than consciously changing form: improving the capacity that supports it
 
 After finishing the assessment, my biggest takeaway was this: **my running form does not have a major obvious problem, but the left-right strength difference deserves priority.**

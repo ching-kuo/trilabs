@@ -58,8 +58,6 @@ image: /img/running-mechanics/side-view-initial-contact.webp
   Your browser does not support the video tag.
 </video>
 
-![後方視点では、左右の支持差、足の軌道、そしてランニング中の上半身の安定性を観察できる。](/img/running-mechanics/rear-view-sequence.webp)
-
 ## フォームを意識的に変えるより、それを支える能力を高めるほうが重要
 
 今回の評価を終えていちばん大きかった感想は、**ランニングフォームに明らかな大問題はないが、左右の筋力差は優先して対処する価値がある** ということでした。
