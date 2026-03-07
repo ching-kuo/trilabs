@@ -12,7 +12,7 @@ image: /img/running-mechanics/side-view-initial-contact.webp
 
 最近我做了一次跑步力學評估（Running Mechanics Assessment），希望更系統地了解自己目前的跑步型態，以及接下來在重量訓練上應該優先補強哪些環節。這次評估的價值，不只是拍一段跑步影片來看動作，而是把背景訪談、下肢活動度測試、肌力測試，以及跑步機上的慢動作分析整合在一起，讓後續訓練方向更清楚，也更有依據。
 
-![這次評估除了跑步機上的動作分析，也包含以 VALD ForceFrame 與 Dynamo Plus 進行的下肢肌力測試。](/img/running-mechanics/assessment-equipment.webp)
+<img src="/img/running-mechanics/assessment-equipment.webp" loading="lazy" alt="這次評估除了跑步機上的動作分析，也包含以 VALD ForceFrame 與 Dynamo Plus 進行的下肢肌力測試。">
 
 ## 評估當天做了什麼？
 
@@ -47,7 +47,7 @@ image: /img/running-mechanics/side-view-initial-contact.webp
   Your browser does not support the video tag.
 </video>
 
-![側面慢動作畫面顯示，落地位置大致仍在身體重心下方，沒有明顯步幅過大（overstriding）的情況。](/img/running-mechanics/side-view-initial-contact.webp)
+<img src="/img/running-mechanics/side-view-initial-contact.webp" loading="lazy" alt="側面慢動作畫面顯示，落地位置大致仍在身體重心下方，沒有明顯步幅過大（overstriding）的情況。">
 
 另一個觀察是上半身整體略顯僵硬。不過，這並不表示姿勢有明顯錯誤；相反地，整體位置其實是穩定的。比較需要改善的，是上半身在跑步過程中的參與方式。跑步雖然主要由下半身產生推進，但手臂擺動、軀幹旋轉與軀幹穩定，仍然會直接影響節奏、平衡與整體流暢度。從這次評估來看，我的上半身並沒有失去位置，只是還有進一步放鬆與更有效參與的空間。
 

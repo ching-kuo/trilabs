@@ -12,7 +12,7 @@ image: /img/running-mechanics/side-view-initial-contact.webp
 
 今回、今の自分の走り方をより体系的に理解し、次の筋力トレーニングで何を優先して補強すべきかを明確にするために、ランニングメカニクス評価（Running Mechanics Assessment）を受けました。この評価の価値は、単に走っている動画を撮ってフォームを見ることではありません。背景のヒアリング、下肢の可動域テスト、筋力テスト、そしてトレッドミルでのスローモーション分析を一つにまとめることで、その後のトレーニングの方向性がよりはっきりしたことにあります。
 
-![今回の評価では、トレッドミルでの動作分析に加えて、VALD ForceFrame と Dynamo Plus を用いた下肢筋力テストも行った。](/img/running-mechanics/assessment-equipment.webp)
+<img src="/img/running-mechanics/assessment-equipment.webp" loading="lazy" alt="今回の評価では、トレッドミルでの動作分析に加えて、VALD ForceFrame と Dynamo Plus を用いた下肢筋力テストも行った。">
 
 ## 評価当日に行ったこと
 
@@ -47,7 +47,7 @@ image: /img/running-mechanics/side-view-initial-contact.webp
   Your browser does not support the video tag.
 </video>
 
-![スローモーションの側方映像では、着地位置がおおむね身体の真下にあり、明らかなオーバーストライドは見られない。](/img/running-mechanics/side-view-initial-contact.webp)
+<img src="/img/running-mechanics/side-view-initial-contact.webp" loading="lazy" alt="スローモーションの側方映像では、着地位置がおおむね身体の真下にあり、明らかなオーバーストライドは見られない。">
 
 もう一つの観察は、上半身がやや硬く見えたことです。ただし、これは明らかな姿勢エラーがあるという意味ではありません。むしろ全体の位置は安定していました。改善の余地があるのは、ランニング中に上半身がどう関与するかという部分です。推進自体は主に下半身が担いますが、腕振り、体幹の回旋、体幹の安定性は、リズム、バランス、そして動き全体の滑らかさに直接影響します。今回の評価では、上半身は位置を失っていたわけではなく、もう少しリラックスし、より効果的に参加できる余地があると感じました。
 

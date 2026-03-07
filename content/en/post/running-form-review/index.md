@@ -12,7 +12,7 @@ In running training, people often talk about cadence, stride length, foot strike
 
 I recently went through a Running Mechanics Assessment to get a clearer understanding of my current running pattern and to identify what I should prioritize in strength training next. The value of this assessment was not just filming a short clip of my stride. It combined background interview, lower-limb mobility testing, strength testing, and slow-motion treadmill analysis into one process, which made the next training steps much clearer.
 
-![This assessment included not only treadmill-based motion analysis, but also lower-limb strength testing using the VALD ForceFrame and Dynamo Plus.](/img/running-mechanics/assessment-equipment.webp)
+<img src="/img/running-mechanics/assessment-equipment.webp" loading="lazy" alt="This assessment included not only treadmill-based motion analysis, but also lower-limb strength testing using the VALD ForceFrame and Dynamo Plus.">
 
 ## What happened during the assessment?
 
@@ -47,7 +47,7 @@ More importantly, there was no obvious overstriding. From the side view, the lan
   Your browser does not support the video tag.
 </video>
 
-![Slow-motion side view showing that the landing point remains roughly under the body, with no obvious overstriding.](/img/running-mechanics/side-view-initial-contact.webp)
+<img src="/img/running-mechanics/side-view-initial-contact.webp" loading="lazy" alt="Slow-motion side view showing that the landing point remains roughly under the body, with no obvious overstriding.">
 
 Another observation was that my upper body looked slightly stiff overall. That does not mean there was an obvious postural error. If anything, the overall position was stable. What likely needs improvement is how the upper body participates during running. Even though propulsion comes mainly from the lower body, arm swing, trunk rotation, and trunk stability still directly affect rhythm, balance, and overall smoothness. From this assessment, my upper body was not losing position; it simply still has room to relax more and contribute more effectively.
 
