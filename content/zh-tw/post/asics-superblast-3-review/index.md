@@ -5,7 +5,7 @@ date: 2026-03-08
 slug: asics-superblast-3-review
 categories: ["裝備", "跑步"]
 tags: ["ASICS", "跑鞋", "Superblast", "裝備評測", "Megablast"]
-image: /img/superblast-3-review/sb_only_side.webp
+image: sb_only_side.webp
 ---
 
 <!-- PHOTO 1: side view showing full shoe and midsole layers -->

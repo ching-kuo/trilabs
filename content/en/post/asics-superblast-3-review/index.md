@@ -5,7 +5,7 @@ date: 2026-03-08
 slug: asics-superblast-3-review
 categories: ["Gear", "Running"]
 tags: ["ASICS", "Running Shoes", "Superblast", "Gear Review", "Megablast"]
-image: /img/superblast-3-review/sb_only_side.webp
+image: sb_only_side.webp
 ---
 
 <!-- PHOTO 1: side view showing full shoe and midsole layers -->
