@@ -34,7 +34,7 @@ title: "ギア"
 | アイテム | ブランド／モデル |
 |---------|-------------|
 | レースシューズ | Adidas Adizero Adios Pro 4 / ASICS Metaspeed Edge Tokyo |
-| 練習用シューズ | ASICS MEGABLAST™ |
+| 練習用シューズ | ASICS Superblast 3 |
 
 ## ⌚ テック＆電子機器
 

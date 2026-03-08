@@ -34,7 +34,7 @@ title: "Gear"
 | Item | Brand / Model |
 |------|--------------|
 | Race shoes | Adidas Adizero Adios Pro 4 / ASICS Metaspeed Edge Tokyo |
-| Training shoes | ASICS MEGABLAST™ |
+| Training shoes | ASICS Superblast 3 |
 
 ## ⌚ Tech & Electronics
 

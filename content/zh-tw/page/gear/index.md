@@ -34,7 +34,7 @@ title: "裝備"
 | 項目 | 品牌／型號 |
 |------|----------|
 | 比賽跑鞋 | Adidas Adizero Adios Pro 4 / ASICS Metaspeed Edge Tokyo |
-| 訓練跑鞋 | ASICS MEGABLAST™ |
+| 訓練跑鞋 | ASICS Superblast 3 |
 
 ## ⌚ 科技裝置
 
