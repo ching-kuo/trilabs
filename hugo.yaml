@@ -127,7 +127,7 @@ params:
 
   footer:
     since: 2026
-    customText: "Tri Labs ⚡"
+    customText: "Tri Labs ⚡ · hi [at] trilabs.dev"
 
   dateFormat:
     published: Jan 02, 2006

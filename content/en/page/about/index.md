@@ -8,6 +8,8 @@ I am chasing a Kona qualification while working in cloud infrastructure (Kuberne
 
 This blog is where I document the journey: training, racing, and everything in between.
 
+Interested in triathlon, writing, or possible collaboration? Reach me at hi [at] trilabs.dev.
+
 **Goals:**
 - Sub-10 hour Ironman (2027)
 - Kona qualification (within 5 years)
