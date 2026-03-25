@@ -2,11 +2,11 @@
 title: "About"
 ---
 
-Hi, I am Ching Kuo — a triathlete and cloud infrastructure engineer based in Tokyo, Japan. Originally from Taiwan.
+Hi, I'm Ching Kuo — a triathlete and cloud infrastructure engineer based in Tokyo, originally from Taiwan.
 
-I am chasing a Kona qualification while working in cloud infrastructure (Kubernetes, OpenStack) by day.
+I spend my weekdays on Kubernetes and OpenStack, and my evenings in the pool, on the bike, or running. I started Tri Labs to document my training with the same data-driven approach I use at work: collect metrics, find patterns, iterate.
 
-This blog is where I document the journey: training, racing, and everything in between.
+Currently chasing a Kona qualification while trying not to blow up on the run leg.
 
 Interested in triathlon, writing, or possible collaboration? Reach me at hi [at] trilabs.dev.
 

@@ -8,41 +8,40 @@ tags: ["Triathlon", "Ironman", "Miyako", "Gear"]
 image: /images/hello-world/cervelo-p5.webp
 ---
 
-Hi, I'm Ching Kuo, currently living in Tokyo.
+Hi, I'm Ching Kuo. I live in Tokyo, work as an infrastructure engineer during the day, and train for triathlons in the evenings and on weekends.
 
-By day, I'm an Infrastructure Engineer—simply put, my job is to design and maintain massive server systems, ensuring they run stably under high loads without crashing. By early morning and on weekends, I'm an amateur triathlete.
+I started this blog because I kept noticing how much overlap there is between the two. Collecting data, watching for warning signs, making adjustments before things blow up — that's basically my job description, and it's also how I approach training. Tri Labs is where I write about this process: the gear, the numbers, and what I'm learning along the way.
 
-I started **Tri Labs** because I realized that training for triathlons and maintaining cloud systems are surprisingly similar. Both require collecting data, monitoring metrics, and making adjustments *before* the system (my body) overloads and crashes. This blog is where I document this data-driven training journey from an engineer's perspective.
+## Goals
 
-## The North Star: Sub-10 and Kona
+My long-term targets are straightforward:
 
-When engineers start a project, the first step is defining the SLA and objectives. My long-term triathlon goals are very clear:
-*   **2027:** Complete a full-distance Ironman in Sub-10 hours.
-*   **Within 5 years (ASAP):** Qualify for the Ironman World Championship in Kona.
+*   **2027:** Finish a full-distance Ironman under 10 hours.
+*   **Within 5 years:** Qualify for the Ironman World Championship in Kona.
 
-This is a very steep mountain to climb. That's why I treat my training like maintaining a complex system: I keep a steady output through continuous metric monitoring, avoid downtime (injuries), and constantly iterate to improve overall performance.
+That's a steep climb from where I am now. But having clear targets makes it easier to structure training and measure progress — same as any other engineering problem.
 
-## The "Tech Stack": Gear & Data Hub
+## Gear and Data
 
-My training "tech stack" architecture is straightforward: my Garmin watch and bike computer collect the raw hardware data, Zwift serves as the testing environment for indoor cycling, and everything is funneled into TrainingPeaks—the central "Control Plane" for analysis. (Though Garmin's recent running power data always makes my TSS spike abnormally high, forcing me to manually revert each session to hrTSS... but that's a story for another day.)
+My Garmin watch and bike computer collect the raw data, Zwift handles indoor cycling, and everything feeds into TrainingPeaks for analysis. (Garmin's running power data keeps inflating my TSS, so I still have to manually revert each session to hrTSS. Annoying, but not worth switching platforms over.)
 
-When it comes to gear, my philosophy is: no brand loyalty, just data and real-world results. I will only share honest thoughts on things I actually bought and use. If you're curious about my current setup, check out my recently updated [Gear List](/gear/).
+For gear, I have no brand loyalty. I only write about things I bought with my own money and actually use. If you're curious, I keep an updated [Gear List](/gear/).
 
 ![Riding the Cervélo P5 at Miyako Triathlon](/images/hello-world/cervelo-p5.webp)
 
-## Next Deploy: Miyako Triathlon
+## Next Race: Miyako Triathlon
 
-My next major "deploy" is the Miyako Triathlon on April 19.
+My next race is the Miyako Triathlon on April 19.
 
-This race will be a great opportunity to benchmark my current state. Last year, around the 15-30km mark of the run, I blew up entirely because I was drinking fluids too casually. This time, I will be hyper-focused on run pacing and nutrition strategy:
+Last year I blew up on the run around the 15–30 km mark because I was too casual about hydration. This time, I'm focusing specifically on pacing and nutrition:
 
-1. **Carbohydrates:** Planning to execute a high-carb strategy of 80-90g per hour (testing the real-world absorption rate of Maurten and CALBOMB gels).
-2. **Hydration & Caffeine:** Establishing a strict hydration plan and caffeine intake timing to avoid repeating last year's tragedy.
+1. **Carbs:** Targeting 80–90 g/hour using Maurten and CALBOMB gels — I want to see how well that absorption rate holds up in race conditions.
+2. **Hydration and caffeine:** Setting a strict schedule instead of winging it. No repeat of last year.
 
 ![Crossing the finish line at the 39th Miyako Triathlon](/images/hello-world/miyako-finish.webp)
 
-## What's Next 
+## What's Next
 
-In the future, this blog will be updated with my race reports, honest gear reviews, and deep dives into training data.
+Going forward, this blog will cover race reports, honest gear reviews, and training data breakdowns.
 
-If you are a gear nerd or data geek who loves analyzing your rides, feel free to follow me on Strava, or leave a comment about what gear you'd like me to review first. See you on the course!
+If you're into analyzing data and geeking out over gear, follow me on Strava or drop a comment about what you'd like to see reviewed first.

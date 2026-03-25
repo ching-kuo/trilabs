@@ -13,9 +13,11 @@ image: sb_only_side.webp
 
 *ASICS Superblast 3 — FF LEAP on top, FF BLAST+ underneath*
 
-The Superblast 3 is softer, more cushioned, and more versatile than both the Superblast 2 and the Megablast. It is not the most exciting shoe in the ASICS lineup, but after a threshold run and a 2.5-hour progression long run, I think it is the most practical one.
+I've been running in the Megablast and Superblast 2 for the past several months. The Megablast is fun but too fast-biased for easy days — I kept drifting above Z2 without meaning to. When the Superblast 3 came out with a new foam setup and more stack, I wanted to see if it could handle more of my training volume without that problem.
 
-That is the short version. Here is everything else.
+After a threshold run and a 2.5-hour progression long run, I think it can. The Superblast 3 is softer, more cushioned, and more versatile than both the Superblast 2 and the Megablast. It's not the most exciting shoe in the ASICS lineup, but it's the most practical one.
+
+That's the short version. Here's everything else.
 
 ---
 
@@ -38,19 +40,19 @@ That is the short version. Here is everything else.
 <!-- PHOTO 3: weight scale showing left shoe 231g -->
 <img src="/img/superblast-3-review/sb_weight_left.webp" loading="lazy" alt="Superblast 3 left shoe weight: 231g">
 
-ASICS lists the weight at around 239 g in US9. My own US9 pair came in at 233 g on the right and 231 g on the left. 10 g lighter than the Superblast 2 despite more stack and cushioning — and it feels that way on foot.
+ASICS lists the weight at around 239 g in US9. My pair came in at 233 g right and 231 g left. 10 g lighter than the Superblast 2 despite more stack — and it feels that way on foot.
 
-Before even running in the shoe, you can feel one major difference: **the Superblast 3 feels soft just walking around in it.** That was obvious immediately. The 1.5 mm stack increase is real, and it shows.
+Before even running, one thing was obvious: **the Superblast 3 feels soft just walking around in it.** The 1.5 mm stack increase is real, and you notice it immediately.
 
 ---
 
 ## Fit and Sizing
 
-True to size for me. I wear the same size across all my ASICS shoes except the S4, where I go half a size up.
+True to size for me. Same size across all my ASICS shoes except the S4, where I go half up.
 
-The Superblast 3 fits more like a trainer than a race shoe. Lockdown is solid with no heel slip. The toe box also has noticeably more room than the Megablast, which I appreciate. On the Megablast, I sometimes get rubbing from my toenail against the upper, enough to damage socks on longer runs. So far I have not had that issue in the Superblast 3 at all.
+The fit is more trainer than race shoe. Lockdown is solid, no heel slip. The toe box has noticeably more room than the Megablast, which I appreciate. The Megablast rubs my toenail on longer runs — sometimes enough to damage socks. No sign of that in the Superblast 3 so far.
 
-The upper feels premium. Tongue padding is excellent, and I have not had any hot spots. I cannot comment on breathability yet — testing has been in winter conditions.
+Upper feels premium. Tongue padding is excellent, no hot spots. Can't comment on breathability yet — all my testing has been in winter.
 
 <!-- PHOTO 4: top-down laced on-foot shot -->
 <img src="/img/superblast-3-review/sb_wearing_top.webp" loading="lazy" alt="Top-down view showing fit and toe box room">
@@ -61,25 +63,25 @@ The upper feels premium. Tongue padding is excellent, and I have not had any hot
 
 ## Ride Feel: Softer, Bouncier, More Cushioned
 
-The biggest change versus the Superblast 2 is the ride character.
+The biggest change vs. the Superblast 2 is how it rides.
 
-The Superblast 3 feels noticeably softer and bouncier, driven by the FF LEAP layer on top. On landing, it compresses quickly and you can clearly feel that softness at first contact. Then the firmer FF BLAST+ underneath provides structure and keeps the platform from feeling vague or unstable.
+The Superblast 3 is noticeably softer and bouncier, driven by the FF LEAP layer on top. On landing, it compresses quickly — you can clearly feel the softness at first contact. Then the firmer FF BLAST+ underneath provides structure and keeps the platform from going vague.
 
 That layered behavior is easy to notice during the run. The Superblast 2 is firmer and more straightforward. The Superblast 3 has more cushioning, more energy return, and a more forgiving character overall.
 
-Compared to the Megablast, it is not quite as explosive. The Megablast has more pop and feels more speed-biased. But the Superblast 3 is noticeably easier to control, especially on runs where the goal is not to push every step.
+Compared to the Megablast, it's not as explosive. The Megablast has more pop and feels more speed-biased. But the Superblast 3 is easier to control, especially when the goal isn't pushing every step.
 
-One other thing worth noting: at higher speeds, you feel the dual-layer character less — not because the shoe disappears, but because shorter ground contact time gives you less time to notice each layer's distinct behavior. What you get instead is just the ride.
+One thing worth noting: at higher speeds, the dual-layer character fades — not because the shoe disappears, but because shorter ground contact time means less time to notice each layer separately. What you get instead is just the ride.
 
 ---
 
 ## Stability: Slightly Less Than Superblast 2, Still Very Good
 
-Because it is softer, the Superblast 3 is also a bit less stable than the Superblast 2. That said, it is still a very stable shoe overall.
+Because it's softer, the Superblast 3 is a bit less stable than the Superblast 2. But overall stability is still very good.
 
-Straight-line running is completely fine. Cornering is also fine for me, though if you have spent a lot of time in the Superblast 2, you will notice it feels slightly less planted. Not problematic — just softer.
+Straight-line running is completely fine. Cornering is fine too, though if you've spent a lot of time in the Superblast 2, you'll notice it feels slightly less planted. Not problematic — just softer.
 
-For reference, I weigh around 73 kg fasted in the morning — not running weight, but a reference point for load on the shoe. It holds up well. I think heel strikers and slightly heavier runners should have no issues, as long as they are not expecting the firmer feel of the Superblast 2.
+For reference, I weigh around 73 kg fasted in the morning. The shoe holds up well at that weight. Heel strikers and slightly heavier runners should have no issues, as long as they're not expecting the firmer SB2 feel.
 
 <!-- PHOTO 5: outsole before run -->
 <img src="/img/superblast-3-review/sb_outsole.webp" loading="lazy" alt="Superblast 3 outsole before run">
@@ -92,7 +94,7 @@ For reference, I weigh around 73 kg fasted in the morning — not running weight
 
 This was the real test.
 
-My first run in the Superblast 3 was 3 × 15 minutes at threshold pace, averaging around 4:20/km. The long run the following day was 5 × 30-minute progression blocks with 2-minute rest, hitting 5:36 / 5:23 / 5:17 / 5:04 / 4:48. The shoe handled both ends of that range comfortably.
+My first run in the Superblast 3 was 3 × 15 minutes at threshold, averaging around 4:20/km. The long run the next day was 5 × 30-minute progression blocks with 2-minute rest, hitting 5:36 / 5:23 / 5:17 / 5:04 / 4:48. The shoe handled both ends of that range comfortably.
 
 After 2.5 hours:
 
@@ -102,7 +104,7 @@ After 2.5 hours:
 - Quads felt noticeably better than after similar efforts in the Megablast — the extra cushioning is doing real work
 - Toe box stayed comfortable even as feet swelled over distance
 
-The quad difference surprised me. It is not just a softer feel at the start — the Superblast 3 is genuinely protecting the legs better over long efforts.
+The quad difference surprised me. It's not just a softer feel at the start — the Superblast 3 genuinely protects the legs better over long efforts.
 
 ---
 
@@ -117,32 +119,32 @@ The quad difference surprised me. It is not just a softer feel at the start — 
 
 *Top-down comparison — the roomier toe box on the Superblast 3 is easier to see here*
 
-This is the comparison most people are here for.
+This is the comparison most people want.
 
 The difference is straightforward:
 
 - **Megablast** is speedier, bouncier, and more race-oriented
 - **Superblast 3** is more cushioned, more forgiving, and more versatile
 
-The Megablast wants to go fast, which makes it fun but also tricky on easy days — it is very easy to let Z2 drift faster than intended. The Superblast 3 is still lively but much easier to keep honest on controlled runs.
+The Megablast wants to go fast. That's fun, but it makes Z2 runs tricky — easy to drift faster than intended. The Superblast 3 is still lively but much easier to keep honest on controlled runs.
 
-From a fit perspective, the Megablast feels more race-fit with a narrower toe box. The Superblast 3 feels like a premium trainer.
+Fit-wise, the Megablast is more race-fit with a narrower toe box. The Superblast 3 feels like a premium trainer.
 
-**If you want to use one shoe for training and racing and care about your best possible race result, the Megablast still has the edge.**
+**If you want one shoe for training and racing and care about your best race result, the Megablast has the edge.**
 
-**If you already have a dedicated racing shoe, or you want your race shoe to feel like an event rather than a daily workhorse, the Superblast 3 makes more sense for most runners.**
+**If you already have a dedicated race shoe, or you want your daily trainer to be comfortable rather than fast, the Superblast 3 makes more sense for most runners.**
 
-There is real overlap. If you already own a Megablast, the Superblast 3 does not replace it cleanly. But it gives you a more comfortable option for the majority of your daily training.
+There's real overlap. If you already own a Megablast, the Superblast 3 doesn't replace it cleanly. But it gives you a more comfortable option for the bulk of daily training.
 
 ---
 
 ## Superblast 3 vs Superblast 2
 
-To me, the Superblast 3 feels like an upgrade, not just a different direction.
+For me, the Superblast 3 is a genuine upgrade, not just a different direction.
 
-It is softer, more cushioned, and more lively, while still stable enough to be useful across a wide range of paces. The added comfort makes longer runs easier on the legs.
+Softer, more cushioned, more lively, while still stable enough across a wide range of paces. The added comfort makes longer runs easier on the legs.
 
-That said, if your favorite thing about the Superblast 2 was its firmer, more planted feel, the Superblast 3 may not be the direction you hoped for. It clearly moves toward a softer character. Both shoes are stable, but they feel meaningfully different.
+That said, if your favorite thing about the Superblast 2 was its firmer, more planted feel, the Superblast 3 may not be what you hoped for. It clearly moves toward a softer character. Both shoes are stable, but they feel meaningfully different.
 
 For me, the Superblast 3 is the better overall shoe.
 
@@ -150,7 +152,7 @@ For me, the Superblast 3 is the better overall shoe.
 
 ## Who Should Buy It
 
-**Great choice if:**
+**Good choice if:**
 - You want one premium trainer that handles Z2, Z3, long runs, and even race day
 - You already have a dedicated race shoe and want your daily trainer to be comfortable
 - You found the Superblast 2 a bit too firm
@@ -158,33 +160,33 @@ For me, the Superblast 3 is the better overall shoe.
 - You want the most versatile shoe in the current ASICS super trainer lineup
 
 **Not ideal if:**
-- You want the most exciting, race-biased trainer and do not prioritize daily comfort
+- You want the most race-biased trainer and don't care about daily comfort
 - You loved the Superblast 2 specifically for its firm, stable feel
-- You do not have a dedicated race shoe and need one shoe to maximize race performance
+- You don't have a dedicated race shoe and need one shoe to maximize race performance
 
 ---
 
 ## Cons
 
-The Superblast 3 is very good. But there are real trade-offs:
+The Superblast 3 is very good, but there are real trade-offs:
 
 - **Price increase on an already expensive shoe** (exception: TWD pricing held flat vs SB2)
 - **Slightly less stable than the Superblast 2**, noticeable on corners
 - **Significant overlap with Megablast** if you already own both
 - **May feel too soft** for runners who preferred the firmer SB2 character
-- **Not the best race option** if you do not have a dedicated race shoe
+- **Not the best race option** if you don't have a dedicated race shoe
 
 ---
 
 ## Verdict
 
-The Superblast 3 is the most complete shoe in the current ASICS super trainer lineup for everyday training. Softer, more cushioned, and more forgiving than the Superblast 2, while still lively and stable enough to handle a wide range of training paces.
+The Superblast 3 is the most complete shoe in the current ASICS super trainer lineup for everyday training. Softer, more cushioned, and more forgiving than the Superblast 2, while still lively and stable enough for a wide range of paces.
 
-It is not as exciting as the Megablast. But it is easier to recommend.
+It's not as exciting as the Megablast. But it's easier to recommend.
 
 After a threshold run and a 2.5-hour long run progression, my conclusion is simple:
 
-**If you want more speed and a better race tool, buy the Megablast. If you want more cushioning, more control, and a more complete daily trainer for the long haul, buy the Superblast 3.**
+**Want more speed and a better race tool? Buy the Megablast. Want more cushioning, more control, and a daily trainer that's easier on the legs over the long haul? Buy the Superblast 3.**
 
 For my current rotation, the Superblast 3 fits better — and the long run confirmed it.
 
