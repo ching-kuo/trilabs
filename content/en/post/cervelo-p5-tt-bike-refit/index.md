@@ -28,9 +28,9 @@ Then came the physical assessment: flexibility, core strength, upper body streng
 
 ---
 
-## Physical Assessment: Tight Right Quad
+## Physical Assessment: Right Quad Tighter Than Expected
 
-One thing the assessment found that I hadn't known before: the Thomas Test showed right quad flexibility was compromised, noted as "Right Quad is very tight." On a TT bike this matters — an aggressive aero position keeps the hip flexors in a shortened position for a long time, and a tight right quad on top of that affects pedaling efficiency and comfort.
+The Thomas Test flagged right quad flexibility as compromised — "Right Quad is very tight" in the notes. I knew I was tight there, but hadn't realized how much it was capping the position. On a TT bike this matters — an aggressive aero position keeps the hip flexors in a shortened position for a long time, and a tight right quad on top of that affects pedaling efficiency and comfort.
 
 Everything else — core strength and upper body strength — came back adequate, within range for an aggressive aero position.
 
@@ -105,7 +105,7 @@ This refit confirmed two things.
 
 First, the saddle really was too high. Twenty-three millimeters doesn't sound like much, but saddle height directly affects hip angle, pedaling efficiency, and saddle comfort over long efforts. My old position was probably forcing the pelvis to over-compensate on every pedal stroke — most likely the root cause of the saddle discomfort after hour three or four.
 
-Second, the Thomas Test finding about the right quad. That directly limits how aggressive a position is actually sustainable, but I had no idea it was an issue before. Just chasing numbers without that context would have been going in circles. That flexibility still needs work — I've been doing some stretching before bed most nights, and hope to see improvement over time.
+Second, the Thomas Test confirmed the right quad issue. I knew I was tight there, but hadn't connected it to the ceiling on how aggressive a position was actually sustainable. This fit made it clear: hardware adjustments and body limitations need to be worked on together — numbers alone only go so far. That flexibility still needs work — I've been doing some stretching before bed most nights, and hope to see improvement over time.
 
 TT bike fitting is different from road bike fitting — different factors, different tradeoffs. If you have a tri bike and haven't done a TT-specific fit, it's worth doing.
 
