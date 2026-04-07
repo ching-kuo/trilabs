@@ -5,7 +5,7 @@ date: 2026-04-07
 slug: heat-acclimatization-training-core-sensor
 categories: ["訓練", "裝備"]
 tags: ["熱適應", "CORE sensor", "宮古島", "鐵人三項", "裝備評測"]
-image: core_sensor.webp
+image: suits_comparison.webp
 ---
 
 CORE sensor 買回來已經一段時間了，夏天訓練時會開著監控核心溫度，主要是確認有沒有過熱、需不需要強制休息。但這次宮古島會是第一次把它帶進比賽實戰用。

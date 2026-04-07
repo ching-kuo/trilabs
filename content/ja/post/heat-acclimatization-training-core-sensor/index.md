@@ -5,7 +5,7 @@ date: 2026-04-07
 slug: heat-acclimatization-training-core-sensor
 categories: ["トレーニング", "ギア"]
 tags: ["暑熱順化", "CORE sensor", "宮古島", "トライアスロン", "装備レビュー"]
-image: core_sensor.webp
+image: suits_comparison.webp
 ---
 
 CORE sensor を買ってからしばらく経ちます。夏場のトレーニングでは深部体温のモニタリングに使っていて、主にオーバーヒートしていないか、強制的に休憩を入れるべきかの判断材料にしています。今回の宮古島が、このセンサーをレースで実戦投入する初めての機会になります。

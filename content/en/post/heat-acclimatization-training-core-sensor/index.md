@@ -5,7 +5,7 @@ date: 2026-04-07
 slug: heat-acclimatization-training-core-sensor
 categories: ["Training", "Gear"]
 tags: ["Heat Acclimatization", "CORE Sensor", "Miyakojima", "Triathlon", "Gear Review"]
-image: core_sensor.webp
+image: suits_comparison.webp
 ---
 
 I've had the CORE sensor for a while now. During summer training I run it to monitor core temperature, mainly to check if I'm overheating and need to stop. But Miyakojima will be the first time I bring it into a race.
