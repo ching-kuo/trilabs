@@ -92,6 +92,8 @@ Running outdoors in a white industrial coverall gets you some very confused star
 
 ![Garmin watch display during training showing HSI, pace, distance, and timer](garmin_hsi.webp)
 
+Most of my heat acclimatization sessions happen indoors on the trainer. The usual approach: finish an intensity workout while core temperature is still elevated, hop off, throw on the heat training suit, and get back on for 45–60 minutes of low-intensity Z2 or even Z1. During the ride I monitor HTL (Heat Training Load) and wrap up once I'm close to the day's target. If I don't strip the gear right away after getting off, the residual heat exposure still contributes some adaptation effect.
+
 As sessions accumulate, HSI rises more slowly in the same gear. That's the adaptation signal, but it also means maintaining enough heat stress requires adding more layers. For indoor trainer sessions toward the end of the block, I layer a long-sleeve jersey and jacket over the training suit to force HSI into the target zone.
 
 Outdoor running feels different. Wind carries sweat away faster, making heat stress harder to sustain, but running also generates heat more quickly than cycling.
