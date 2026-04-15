@@ -101,6 +101,8 @@ Target: **10-12g/kg carbs per day** for two days to top off glycogen stores befo
 
 **Electrolytes**: Precision Fuel & Hydration PH1000 / PH1500 effervescent tablets (1000 / 1500mg sodium/L). Last year's sweat test showed high sodium loss. I'll retest before this race to dial in the exact supplementation.
 
+![Race nutrition packed — gels, carb drink mix, and electrolyte powder](carbs.webp)
+
 ---
 
 ## Weather: This Year vs Last Year

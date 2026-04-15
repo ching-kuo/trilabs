@@ -101,6 +101,8 @@ image: hero_pre_race.webp
 
 **電解質**：Precision Fuel & Hydration PH1000 / PH1500 電解質發泡錠（1000 / 1500mg 鈉/L）。去年 sweat test 結果很鹹，鈉流失偏高；今年賽前會重新測一次，再決定電解質的確切補充量。
 
+![打包好的補給品：能量膠、碳水飲品、電解質](carbs.webp)
+
 ---
 
 ## 天氣：今年 vs 去年
