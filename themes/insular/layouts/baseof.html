@@ -3,6 +3,18 @@
 {{- $css := slice $tokens $site | resources.Concat "css/insular.css" | resources.Minify | resources.Fingerprint -}}
 {{- $modeInit := resources.Get "js/mode-init.js" | resources.Minify -}}
 {{- $theme := resources.Get "js/theme.js" | resources.Minify | resources.Fingerprint -}}
+{{- $ogImage := "" -}}
+{{- with .Params.image -}}
+  {{- if or (hasPrefix . "http") (hasPrefix . "//") -}}
+    {{- $ogImage = . -}}
+  {{- else -}}
+    {{- with $.Resources.GetMatch . -}}
+      {{- $ogImage = .Permalink -}}
+    {{- else -}}
+      {{- $ogImage = . | absURL -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 <!doctype html>
 <html lang="{{ site.Language.Lang }}">
 <head>
@@ -16,7 +28,7 @@
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   {{ with .Description | default site.Params.description }}<meta property="og:description" content="{{ . }}">{{ end }}
-  {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+  {{ with $ogImage }}<meta property="og:image" content="{{ . }}">{{ end }}
   <meta name="twitter:card" content="summary_large_image">
 
   <link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
@@ -26,7 +38,6 @@
   {{ range .AllTranslations }}
   <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
   {{ end }}
-  {{ range site.Home.AllTranslations }}{{ if eq .Language.Lang site.Language.Lang }}{{ else }}{{ end }}{{ end }}
 
   {{ if .OutputFormats.Get "RSS" }}
   <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ (.OutputFormats.Get "RSS").Permalink }}">

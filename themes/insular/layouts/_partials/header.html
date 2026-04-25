@@ -1,4 +1,8 @@
 {{- $currentLang := site.Language.Lang -}}
+{{- $translations := .AllTranslations -}}
+{{- if le (len $translations) 1 -}}
+  {{- $translations = site.Home.AllTranslations -}}
+{{- end -}}
 <header class="top">
   <a class="brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}">
     <span class="mk" aria-hidden="true">
@@ -17,9 +21,9 @@
   </nav>
 
   <div class="top-controls">
-    {{ if gt (len site.Home.AllTranslations) 1 }}
+    {{ if gt (len $translations) 1 }}
     <div class="lang" aria-label="Language">
-      {{ range site.Home.AllTranslations }}
+      {{ range $translations }}
         <a href="{{ .Permalink }}"{{ if eq .Language.Lang $currentLang }} class="active"{{ end }} hreflang="{{ .Language.Lang }}">
           {{- if eq .Language.Lang "zh-tw" -}}繁中
           {{- else if eq .Language.Lang "ja" -}}日本語

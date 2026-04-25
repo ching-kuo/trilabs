@@ -14,7 +14,7 @@
   var input = document.getElementById('search-input');
   var results = document.getElementById('search-results');
   var index = null;
-  var dataURL = '{{ "index.json" | relLangURL }}';
+  var dataURL = '{{ with .OutputFormats.Get "JSON" }}{{ .RelPermalink }}{{ else }}{{ "page/search/index.json" | relLangURL }}{{ end }}';
 
   function tokenize(s){ return (s||'').toLowerCase().split(/\s+/).filter(Boolean); }
   function score(item, terms){
