@@ -1,6 +1,15 @@
 (function () {
   var STORAGE_KEY = "tl-mode";
+  var LANG_STORAGE_KEY = "tl-lang";
   var root = document.documentElement;
+  var media = window.matchMedia ? matchMedia("(prefers-color-scheme: dark)") : { matches: false };
+
+  function savedMode() {
+    try {
+      var saved = localStorage.getItem(STORAGE_KEY);
+      return saved === "light" || saved === "dark" ? saved : null;
+    } catch (e) { return null; }
+  }
 
   function apply(mode) {
     if (mode === "light" || mode === "dark") {
@@ -10,17 +19,14 @@
     }
     var btn = document.getElementById("mode-toggle");
     if (btn) {
-      var resolved = mode || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      var resolved = mode || (media.matches ? "dark" : "light");
       btn.setAttribute("aria-pressed", resolved === "dark" ? "true" : "false");
       btn.textContent = resolved === "dark" ? "LIGHT" : "DARK";
     }
   }
 
   function current() {
-    var saved = null;
-    try { saved = localStorage.getItem(STORAGE_KEY); } catch (e) {}
-    if (saved === "light" || saved === "dark") return saved;
-    return matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    return savedMode() || (media.matches ? "dark" : "light");
   }
 
   function toggle() {
@@ -29,16 +35,24 @@
     apply(next);
   }
 
+  function handleSystemModeChange() {
+    if (!savedMode()) apply(null);
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
-    var saved = null;
-    try { saved = localStorage.getItem(STORAGE_KEY); } catch (e) {}
-    apply(saved);
+    apply(savedMode());
     var btn = document.getElementById("mode-toggle");
     if (btn) btn.addEventListener("click", toggle);
-  });
+    if (media.addEventListener) media.addEventListener("change", handleSystemModeChange);
+    else if (media.addListener) media.addListener(handleSystemModeChange);
 
-  // Inline-applied early in <head> via separate snippet to avoid FOUC; this also
-  // re-applies after DOM is ready in case content was missing then.
+    var langLinks = document.querySelectorAll("[data-lang-link][data-lang]");
+    langLinks.forEach(function (link) {
+      link.addEventListener("click", function () {
+        try { localStorage.setItem(LANG_STORAGE_KEY, link.getAttribute("data-lang")); } catch (e) {}
+      });
+    });
+  });
 })();
 
 // TOC scroll-spy: highlight TOC items as their corresponding sections come into view.

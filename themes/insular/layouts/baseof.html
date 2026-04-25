@@ -44,6 +44,17 @@
   {{ end }}
 
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+  <script>
+    window.__TL_LANGS__ = {
+      current: {{ site.Language.Lang | jsonify | safeJS }},
+      isHome: {{ .IsHome | jsonify | safeJS }},
+      homes: {
+        {{- range site.Home.AllTranslations }}
+        {{ .Language.Lang | jsonify | safeJS }}: {{ .RelPermalink | jsonify | safeJS }},
+        {{- end }}
+      }
+    };
+  </script>
   <script>{{ $modeInit.Content | safeJS }}</script>
 </head>
 <body>

@@ -24,7 +24,7 @@
     {{ if gt (len $translations) 1 }}
     <div class="lang" aria-label="Language">
       {{ range $translations }}
-        <a href="{{ .Permalink }}"{{ if eq .Language.Lang $currentLang }} class="active"{{ end }} hreflang="{{ .Language.Lang }}">
+        <a href="{{ .Permalink }}"{{ if eq .Language.Lang $currentLang }} class="active"{{ end }} hreflang="{{ .Language.Lang }}" data-lang-link data-lang="{{ .Language.Lang }}">
           {{- if eq .Language.Lang "zh-tw" -}}繁中
           {{- else if eq .Language.Lang "ja" -}}日本語
           {{- else if eq .Language.Lang "en" -}}EN
