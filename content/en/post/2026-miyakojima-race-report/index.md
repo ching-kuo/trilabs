@@ -11,7 +11,7 @@ image: hero_finish.webp
 > **Official result: 8:45:09 | 101st overall**
 > Swim 57:27 (includes run to T1) · T1 6:13 · Bike 3:41:06 · T2 3:57 · Run 3:56:26
 
-![Crossing the finish line with the clock at 8:45](hero_finish.webp)
+![Crossing the finish line with the clock at 8:45](finish.webp)
 
 I wrote up the goals and strategy beforehand in [2026 Miyakojima Triathlon Pre-Race Notes](../2026-miyakojima-pre-race/). This post is the post-race review, comparing how things actually played out against the plan.
 
