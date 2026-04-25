@@ -2,8 +2,14 @@ home:
   other: "Home"
 search:
   other: "Search"
+searchLede:
+  other: "Title, tags, summary — type a keyword."
+searchPlaceholder:
+  other: "Type a keyword…"
 readMore:
   other: "Read more"
+readFull:
+  other: "Read full"
 article:
   readingTime:
     other: "{{ . }} min read"
@@ -13,3 +19,23 @@ tags:
   other: "Tags"
 recentArticles:
   other: "Recent Articles"
+posts:
+  other: "Posts"
+archive:
+  other: "Archive"
+related:
+  other: "Related"
+entries:
+  other: "ENTRIES"
+page:
+  other: "PAGE"
+pinnedLatest:
+  other: "PINNED · LATEST"
+nextRace:
+  other: "NEXT RACE"
+daysOut:
+  other: "DAYS"
+notFoundTitle:
+  other: "Page not found"
+notFoundBody:
+  other: "The page you were looking for has moved or no longer exists."

@@ -1,0 +1,10 @@
+{{- $page := . -}}
+{{- $cat := "" -}}
+{{- with $page.Params.categories -}}
+  {{- $cat = (index . 0) -}}
+{{- end -}}
+<span class="meta">
+  {{ if $cat }}<span class="cat">{{ upper $cat }}</span> · {{ end }}
+  <time datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format "2006.01.02" }}</time>
+  {{ if and site.Params.article.readingTime $page.ReadingTime }} · {{ $page.ReadingTime }} MIN READ{{ end }}
+</span>

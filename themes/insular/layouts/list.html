@@ -1,0 +1,39 @@
+{{ define "main" }}
+{{- $paginator := .Paginate (.RegularPagesRecursive | default .Pages) -}}
+{{- $pages := $paginator.Pages -}}
+
+<div class="crumb">
+  <a href="{{ "/" | relLangURL }}">{{ i18n "home" | default "Home" }}</a>
+  <span class="sep">/</span>
+  <span class="cur">{{ .Title }}</span>
+</div>
+
+<header class="art-head" style="padding-bottom:24px">
+  <div class="kicker">{{ upper (.Type | default "ARCHIVE") }}</div>
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
+</header>
+
+<section class="posts" style="margin-top:0">
+  <div class="posts-h">
+    <h2>{{ i18n "entries" | default "文章" }}</h2>
+    <span class="en">{{ $paginator.TotalNumberOfElements }} {{ i18n "entries" | default "ENTRIES" }} · {{ i18n "page" | default "PAGE" }} {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}</span>
+  </div>
+
+  <div class="post-grid">
+    {{ range $pages }}
+      <article class="post">
+        <a href="{{ .RelPermalink }}">
+          {{ partial "post-thumb.html" (dict "page" .) }}
+        </a>
+        {{ partial "post-meta.html" . }}
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Description | default (.Summary | plainify | truncate 110) }}</p>
+        <a class="read" href="{{ .RelPermalink }}">{{ i18n "readMore" | default "繼續閱讀" }} →</a>
+      </article>
+    {{ end }}
+  </div>
+
+  {{ partial "pager.html" . }}
+</section>
+{{ end }}

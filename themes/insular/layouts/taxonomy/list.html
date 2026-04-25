@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{- $paginator := .Paginate .Pages -}}
+<div class="crumb">
+  <a href="{{ "/" | relLangURL }}">{{ i18n "home" | default "Home" }}</a>
+  <span class="sep">/</span>
+  <a href="{{ printf "/%s/" .Data.Plural | relLangURL }}">{{ .Data.Plural }}</a>
+  <span class="sep">/</span>
+  <span class="cur">{{ .Title }}</span>
+</div>
+
+<header class="art-head" style="padding-bottom:24px">
+  <div class="kicker">{{ upper .Data.Singular }}</div>
+  <h1>{{ .Title }}</h1>
+</header>
+
+<section class="posts" style="margin-top:0">
+  <div class="posts-h">
+    <h2>{{ i18n "entries" | default "文章" }}</h2>
+    <span class="en">{{ $paginator.TotalNumberOfElements }} ENTRIES</span>
+  </div>
+
+  <div class="post-grid">
+    {{ range $paginator.Pages }}
+      <article class="post">
+        <a href="{{ .RelPermalink }}">{{ partial "post-thumb.html" (dict "page" .) }}</a>
+        {{ partial "post-meta.html" . }}
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Description | default (.Summary | plainify | truncate 110) }}</p>
+      </article>
+    {{ end }}
+  </div>
+
+  {{ partial "pager.html" . }}
+</section>
+{{ end }}

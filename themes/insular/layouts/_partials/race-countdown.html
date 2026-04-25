@@ -1,0 +1,23 @@
+{{- $race := hugo.Data.race -}}
+{{- if $race -}}
+{{- $rd := time $race.date -}}
+{{- $diffSeconds := sub $rd.Unix now.Unix -}}
+{{- $days := math.Round (div $diffSeconds 86400.0) -}}
+{{- $monthDay := $rd.Format "01.02" -}}
+{{- if ge $days 0 }}
+<section class="race">
+  <div class="race-card">
+    <div>
+      <div class="l">{{ i18n "nextRace" | default "NEXT RACE · 下一場" }}</div>
+      <div class="name">{{ $race.name }}</div>
+      <div class="meta">{{ $race.location }}</div>
+    </div>
+    <div></div>
+    <div>
+      <div class="date">{{ $monthDay }}</div>
+      <span class="my">{{ $days }} {{ i18n "daysOut" | default "DAYS" }}</span>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{- end -}}

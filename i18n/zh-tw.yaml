@@ -2,8 +2,14 @@ home:
   other: "首頁"
 search:
   other: "搜尋"
+searchLede:
+  other: "輸入關鍵字 — 標題、標籤、內文都會搜尋。"
+searchPlaceholder:
+  other: "輸入關鍵字…"
 readMore:
   other: "繼續閱讀"
+readFull:
+  other: "閱讀全文"
 article:
   readingTime:
     other: "約 {{ . }} 分鐘"
@@ -13,3 +19,23 @@ tags:
   other: "標籤"
 recentArticles:
   other: "最新文章"
+posts:
+  other: "文章"
+archive:
+  other: "文章索引"
+related:
+  other: "延伸閱讀"
+entries:
+  other: "ENTRIES"
+page:
+  other: "PAGE"
+pinnedLatest:
+  other: "PINNED · 最新"
+nextRace:
+  other: "NEXT RACE · 下一場"
+daysOut:
+  other: "DAYS"
+notFoundTitle:
+  other: "頁面不存在"
+notFoundBody:
+  other: "你尋找的頁面可能已經被搬走或刪除了。"

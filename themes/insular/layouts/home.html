@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{- $posts := where site.RegularPages "Section" "post" -}}
+{{- $paginator := .Paginate $posts -}}
+{{- $pages := $paginator.Pages -}}
+
+<div class="banner">
+  <span class="tag">{{ site.Params.tagline | default "A NOTEBOOK ON ENDURANCE" }}</span>
+  <span class="desc">{{ site.Params.description }}</span>
+  {{ with site.GetPage "/page/about" }}<a class="about-link" href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}
+</div>
+
+{{ partial "race-countdown.html" . }}
+
+<section class="posts">
+  <div class="posts-h">
+    <h2>{{ i18n "archive" | default "文章索引" }}</h2>
+    <span class="en">{{ upper (i18n "archive" | default "ARCHIVE") }} — {{ $paginator.TotalNumberOfElements }} {{ i18n "entries" | default "ENTRIES" }} · {{ i18n "page" | default "PAGE" }} {{ $paginator.PageNumber }} / {{ $paginator.TotalPages }}</span>
+  </div>
+
+  {{ if and $pages (eq $paginator.PageNumber 1) }}
+    {{ $featured := index $pages 0 }}
+    <article class="featured">
+      <div>
+        <span class="pin">{{ i18n "pinnedLatest" | default "PINNED · 最新" }}</span>
+        {{ partial "post-meta.html" $featured }}
+        <h3><a href="{{ $featured.RelPermalink }}">{{ $featured.Title }}</a></h3>
+        <p>{{ $featured.Description | default ($featured.Summary | plainify | truncate 140) }}</p>
+        <a class="read" href="{{ $featured.RelPermalink }}">{{ i18n "readFull" | default "閱讀全文" }} →</a>
+      </div>
+      <a class="img" href="{{ $featured.RelPermalink }}" aria-hidden="true" tabindex="-1">
+        {{- $img := "" -}}
+        {{- with $featured.Resources.GetMatch ($featured.Params.image | default "") -}}{{ $img = . }}{{- end -}}
+        {{- if not $img -}}{{- with $featured.Resources.ByType "image" -}}{{- with index . 0 -}}{{ $img = . }}{{- end -}}{{- end -}}{{- end -}}
+        {{ if $img }}
+          <img src="{{ $img.RelPermalink }}" alt="{{ $featured.Title }}">
+        {{ else if $featured.Params.image }}
+          <img src="{{ if hasPrefix $featured.Params.image "http" }}{{ $featured.Params.image }}{{ else }}{{ $featured.Params.image | relURL }}{{ end }}" alt="{{ $featured.Title }}">
+        {{ end }}
+      </a>
+    </article>
+
+    <div class="post-grid">
+      {{ range after 1 $pages }}
+        <article class="post">
+          <a href="{{ .RelPermalink }}">
+            {{ partial "post-thumb.html" (dict "page" .) }}
+          </a>
+          {{ partial "post-meta.html" . }}
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Description | default (.Summary | plainify | truncate 110) }}</p>
+          <a class="read" href="{{ .RelPermalink }}">{{ i18n "readMore" | default "繼續閱讀" }} →</a>
+        </article>
+      {{ end }}
+    </div>
+  {{ else }}
+    <div class="post-grid">
+      {{ range $pages }}
+        <article class="post">
+          <a href="{{ .RelPermalink }}">
+            {{ partial "post-thumb.html" (dict "page" .) }}
+          </a>
+          {{ partial "post-meta.html" . }}
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Description | default (.Summary | plainify | truncate 110) }}</p>
+          <a class="read" href="{{ .RelPermalink }}">{{ i18n "readMore" | default "繼續閱讀" }} →</a>
+        </article>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ partial "pager.html" . }}
+</section>
+{{ end }}

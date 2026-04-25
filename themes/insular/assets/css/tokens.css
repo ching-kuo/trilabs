@@ -1,0 +1,49 @@
+/* ==========================================================================
+   Tri Labs — Insular tokens
+   Single-theme system. Light default; dark via [data-mode="dark"] on <html>.
+   ========================================================================== */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&family=Noto+Serif+TC:wght@400;600;700;900&family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@400;500;600;700&display=swap");
+
+:root {
+  --zh-sans:  -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+  --zh-serif: "Iowan Old Style", "Charter", "Cambria", Georgia, "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+  --en-sans:  "Space Grotesk", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --mono:     "JetBrains Mono", "SF Mono", Menlo, monospace;
+
+  --t-display: var(--zh-serif);
+  --t-heading: var(--zh-serif);
+  --t-body:    var(--zh-sans);
+  --t-mono:    var(--mono);
+
+  --s-1: 4px;  --s-2: 8px;  --s-3: 12px; --s-4: 16px;
+  --s-5: 24px; --s-6: 32px; --s-7: 48px; --s-8: 64px;
+
+  --r-1: 0; --r-2: 0; --r-3: 2px; --r-4: 4px;
+
+  --c-swim: #38BDF8;
+  --c-bike: #34D399;
+  --c-run:  #F87171;
+  --c-data: #A78BFA;
+
+  /* Light mode (default) */
+  --bg-0:#F7F4EE; --bg-1:#FDFBF6; --bg-2:#EFEAE0; --bg-3:#E2DCCD;
+  --fg-0:#1A1614; --fg-1:#3F3934; --fg-2:#756E66; --fg-3:#A8A097;
+  --line:#D8CFBE; --line-strong:#1A1614;
+  --accent:#B8350B; --accent-2:#8C2607; --accent-fg:#FDFBF6;
+}
+
+[data-mode="dark"] {
+  --bg-0:#0E0C0A; --bg-1:#14110E; --bg-2:#1C1815; --bg-3:#2A241F;
+  --fg-0:#F1ECE2; --fg-1:#C9C2B5; --fg-2:#8A8276; --fg-3:#5A5249;
+  --line:#2A241F; --line-strong:#F1ECE2;
+  --accent:#E04C1A; --accent-2:#C03A0E; --accent-fg:#0E0C0A;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-mode="light"]) {
+    --bg-0:#0E0C0A; --bg-1:#14110E; --bg-2:#1C1815; --bg-3:#2A241F;
+    --fg-0:#F1ECE2; --fg-1:#C9C2B5; --fg-2:#8A8276; --fg-3:#5A5249;
+    --line:#2A241F; --line-strong:#F1ECE2;
+    --accent:#E04C1A; --accent-2:#C03A0E; --accent-fg:#0E0C0A;
+  }
+}

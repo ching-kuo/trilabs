@@ -1,0 +1,14 @@
+[
+{{- $first := true -}}
+{{- range where site.RegularPages "Section" "post" -}}
+  {{- if not $first }},{{ end -}}{{- $first = false -}}
+  {
+    "title": {{ .Title | jsonify }},
+    "permalink": {{ .Permalink | jsonify }},
+    "summary": {{ (.Description | default (.Summary | plainify | truncate 160)) | jsonify }},
+    "date": {{ .Date.Format "2006.01.02" | jsonify }},
+    "tags": {{ .Params.tags | jsonify }},
+    "categories": {{ .Params.categories | jsonify }}
+  }
+{{- end -}}
+]

@@ -3,3 +3,6 @@ resources/
 .hugo_build.lock
 node_modules/
 .DS_Store
+.claude/
+temp_pic/
+/2026-miyako-*.md

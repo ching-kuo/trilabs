@@ -1,0 +1,11 @@
+name = "Insular"
+license = "MIT"
+description = "Tri Labs — 島 Insular: an editorial single-theme system with light + dark modes."
+homepage = "https://trilabs.dev"
+tags = ["editorial", "blog", "minimal", "triathlon"]
+features = ["dark-mode", "i18n", "search", "tags", "categories"]
+min_version = "0.120.0"
+
+[author]
+  name = "Ching Kuo"
+  homepage = "https://trilabs.dev"

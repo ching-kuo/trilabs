@@ -1,0 +1,11 @@
+{{- $year := site.Params.footer.since | default now.Year -}}
+{{- $now := now.Year -}}
+<footer class="foot">
+  <span class="l">© {{ if eq $year $now }}{{ $year }}{{ else }}{{ $year }}–{{ $now }}{{ end }} {{ site.Params.author | default "Ching Kuo" }} · TOKYO</span>
+  <span class="l">
+    <a href="{{ "/index.xml" | relLangURL }}">RSS</a>
+    {{ with site.Params.social.github }} · <a href="{{ . }}" rel="me noopener" target="_blank">GITHUB</a>{{ end }}
+    {{ with site.Params.social.strava }} · <a href="{{ . }}" rel="me noopener" target="_blank">STRAVA</a>{{ end }}
+    {{ with site.Params.footer.customText }} · {{ . }}{{ end }}
+  </span>
+</footer>

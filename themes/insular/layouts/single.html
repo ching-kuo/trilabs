@@ -1,0 +1,91 @@
+{{ define "main" }}
+{{- $cat := "" -}}
+{{- with .Params.categories -}}{{ $cat = (index . 0) }}{{- end -}}
+{{- $hero := "" -}}
+{{- with .Resources.GetMatch (.Params.image | default "") -}}{{ $hero = . }}{{- end -}}
+{{- if not $hero -}}{{- with .Resources.ByType "image" -}}{{- with index . 0 -}}{{ $hero = . }}{{- end -}}{{- end -}}{{- end -}}
+
+<div class="crumb">
+  <a href="{{ "/" | relLangURL }}">{{ i18n "home" | default "Home" }}</a>
+  <span class="sep">/</span>
+  <a href="{{ "/post/" | relLangURL }}">{{ i18n "posts" | default "文章" }}</a>
+  {{ if $cat }}<span class="sep">/</span><a>{{ upper $cat }}</a>{{ end }}
+  <span class="sep">/</span>
+  <span class="cur">{{ .Title }}</span>
+</div>
+
+<header class="art-head">
+  {{ if $cat }}<div class="kicker">{{ upper $cat }}{{ with .Params.subtitle }} · {{ . }}{{ end }}</div>{{ end }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
+  <div class="byline">
+    <span class="by-by">{{ upper (site.Params.author | default "CHING KUO") }}</span>
+    <span><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02" }}</time></span>
+    {{ if .ReadingTime }}<span>{{ .ReadingTime }} MIN READ</span>{{ end }}
+    {{ if .WordCount }}<span class="by-acc">{{ .WordCount }} 字</span>{{ end }}
+    {{ with .Params.tags }}{{ if gt (len .) 0 }}<span class="spacer">{{ upper (index . 0) }}</span>{{ end }}{{ end }}
+  </div>
+</header>
+
+{{ if or $hero .Params.image }}
+<div class="hero-img">
+  <figure>
+    <div class="frame">
+      {{ if $hero }}
+        <img src="{{ $hero.RelPermalink }}" alt="{{ .Title }}">
+      {{ else if .Params.image }}
+        <img src="{{ if hasPrefix .Params.image "http" }}{{ .Params.image }}{{ else }}{{ .Params.image | relURL }}{{ end }}" alt="{{ .Title }}">
+      {{ end }}
+    </div>
+    {{ with .Params.imageCaption }}<figcaption>{{ . }}</figcaption>{{ end }}
+  </figure>
+</div>
+{{ end }}
+
+<div class="body-wrap{{ if not (and site.Params.article.toc .TableOfContents) }} no-toc{{ end }}">
+  {{ if and site.Params.article.toc .TableOfContents }}
+  <nav class="toc">
+    <div class="toc-h">CONTENTS · 目次</div>
+    {{ .TableOfContents }}
+  </nav>
+  {{ end }}
+
+  <article class="art">
+    {{ .Content }}
+  </article>
+</div>
+
+<div class="container" style="max-width:1180px;margin:0 auto;padding:0 40px 64px">
+  <div class="art-foot">
+    <div class="tags">
+      {{ range .Params.tags }}<a class="tag" href="{{ printf "/tags/%s" (. | urlize) | relLangURL }}">{{ . }}</a>{{ end }}
+    </div>
+    <div class="art-nav">
+      {{ with .PrevInSection }}<a href="{{ .RelPermalink }}">← PREV</a>{{ else }}<span>← PREV</span>{{ end }}
+      <span>·</span>
+      {{ with .NextInSection }}<a href="{{ .RelPermalink }}">NEXT →</a>{{ else }}<span>NEXT →</span>{{ end }}
+    </div>
+  </div>
+</div>
+
+{{- $related := site.RegularPages.Related . | first 3 -}}
+{{ if $related }}
+<section class="related">
+  <div class="related-h">
+    <h2>{{ i18n "related" | default "延伸閱讀" }}</h2>
+    <span class="en">RELATED — {{ len $related }} ENTRIES</span>
+  </div>
+  <div class="related-grid">
+    {{ range $related }}
+      <article class="rel">
+        <a href="{{ .RelPermalink }}">
+          {{ partial "post-thumb.html" (dict "page" .) }}
+        </a>
+        {{ partial "post-meta.html" . }}
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}

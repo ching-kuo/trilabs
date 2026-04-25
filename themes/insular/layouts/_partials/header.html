@@ -1,0 +1,34 @@
+{{- $currentLang := site.Language.Lang -}}
+<header class="top">
+  <a class="brand" href="{{ "/" | relLangURL }}" aria-label="{{ site.Title }}">
+    <span class="mk" aria-hidden="true">
+      {{ partial "favicon-inline.html" . }}
+    </span>
+    <span class="mark-text">Tri <span class="acc">Labs</span></span>
+  </a>
+
+  <nav class="nav" aria-label="Main">
+    {{ with site.Menus.main }}
+      {{ range . }}
+        {{ $active := or (eq $.RelPermalink .URL) (and (ne .URL "/") (hasPrefix $.RelPermalink .URL)) }}
+        <a href="{{ .URL | relLangURL }}"{{ if $active }} class="active"{{ end }}>{{ .Name }}</a>
+      {{ end }}
+    {{ end }}
+  </nav>
+
+  <div class="top-controls">
+    {{ if gt (len site.Home.AllTranslations) 1 }}
+    <div class="lang" aria-label="Language">
+      {{ range site.Home.AllTranslations }}
+        <a href="{{ .Permalink }}"{{ if eq .Language.Lang $currentLang }} class="active"{{ end }} hreflang="{{ .Language.Lang }}">
+          {{- if eq .Language.Lang "zh-tw" -}}繁中
+          {{- else if eq .Language.Lang "ja" -}}日本語
+          {{- else if eq .Language.Lang "en" -}}EN
+          {{- else -}}{{ .Language.LanguageName }}{{- end -}}
+        </a>
+      {{ end }}
+    </div>
+    {{ end }}
+    <button id="mode-toggle" class="mode-toggle" type="button" aria-pressed="false" aria-label="Toggle dark mode">DARK</button>
+  </div>
+</header>

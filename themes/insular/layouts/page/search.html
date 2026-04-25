@@ -1,0 +1,61 @@
+{{ define "main" }}
+<div class="search-wrap">
+  <div class="breadcrumb" style="font-family:var(--mono);font-size:11px;color:var(--fg-2);letter-spacing:0.25em;text-transform:uppercase;text-align:center;margin-bottom:24px">
+    {{ site.Title }} <span style="color:var(--accent)">/ {{ .Title }}</span>
+  </div>
+  <h1 style="font-family:var(--zh-serif);font-weight:900;font-size:48px;text-align:center;margin:0 0 14px;letter-spacing:0.05em">{{ .Title }}</h1>
+  <p style="font-family:var(--zh-serif);font-size:17px;line-height:2;color:var(--fg-1);text-align:center;max-width:38ch;margin:0 auto 32px">{{ i18n "searchLede" | default "輸入關鍵字 — 標題、標籤、內文都會搜尋。" }}</p>
+  <input id="search-input" type="search" autofocus aria-label="{{ i18n "search" | default "Search" }}" placeholder="{{ i18n "searchPlaceholder" | default "輸入關鍵字…" }}">
+  <ul id="search-results" class="search-results" aria-live="polite"></ul>
+</div>
+
+<script>
+(function(){
+  var input = document.getElementById('search-input');
+  var results = document.getElementById('search-results');
+  var index = null;
+  var dataURL = '{{ "index.json" | relLangURL }}';
+
+  function tokenize(s){ return (s||'').toLowerCase().split(/\s+/).filter(Boolean); }
+  function score(item, terms){
+    var hay = (item.title+' '+(item.summary||'')+' '+(item.tags||[]).join(' ')+' '+(item.categories||[]).join(' ')).toLowerCase();
+    return terms.every(function(t){ return hay.indexOf(t) !== -1; });
+  }
+  function el(tag, cls, text){
+    var n = document.createElement(tag);
+    if (cls) n.className = cls;
+    if (text != null) n.textContent = text;
+    return n;
+  }
+  function render(matches){
+    while (results.firstChild) results.removeChild(results.firstChild);
+    matches.slice(0, 30).forEach(function(it){
+      var cat = (it.categories || [])[0] || '';
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = it.permalink;
+      var meta = el('div', 'meta');
+      if (cat) {
+        meta.appendChild(el('span', 'cat', cat.toUpperCase()));
+        meta.appendChild(document.createTextNode(' · '));
+      }
+      meta.appendChild(document.createTextNode(it.date || ''));
+      a.appendChild(meta);
+      a.appendChild(el('h3', null, it.title));
+      if (it.summary) a.appendChild(el('p', null, it.summary));
+      li.appendChild(a);
+      results.appendChild(li);
+    });
+  }
+  function search(){
+    var q = input.value.trim();
+    if(!q){ render([]); return; }
+    if(!index){ return; }
+    var terms = tokenize(q);
+    render(index.filter(function(it){ return score(it, terms); }));
+  }
+  fetch(dataURL).then(function(r){ return r.json(); }).then(function(d){ index = d; if(input.value) search(); }).catch(function(){});
+  input.addEventListener('input', search);
+})();
+</script>
+{{ end }}

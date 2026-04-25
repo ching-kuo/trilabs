@@ -1,0 +1,26 @@
+{{- $page := .page -}}
+{{- $alt := .alt | default $page.Title -}}
+{{- $img := "" -}}
+{{- with $page.Resources.GetMatch (printf "%s" ($page.Params.image | default "")) -}}
+  {{- $img = . -}}
+{{- end -}}
+{{- if not $img -}}
+  {{- with $page.Resources.ByType "image" -}}
+    {{- with index . 0 -}}{{- $img = . -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $img -}}
+  {{- with $page.Params.image -}}
+    {{- if hasPrefix . "http" -}}
+      <div class="thumb"><img src="{{ . }}" alt="{{ $alt }}" loading="lazy"></div>
+    {{- else -}}
+      <div class="thumb"><img src="{{ . | relURL }}" alt="{{ $alt }}" loading="lazy"></div>
+    {{- end -}}
+  {{- else -}}
+    {{- $cat := "" -}}
+    {{- with $page.Params.categories -}}{{- $cat = index . 0 -}}{{- end -}}
+    <div class="thumb placeholder" data-cat="{{ $cat }}"></div>
+  {{- end -}}
+{{- else -}}
+  <div class="thumb"><img src="{{ $img.RelPermalink }}" alt="{{ $alt }}" loading="lazy"></div>
+{{- end -}}

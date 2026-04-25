@@ -1,0 +1,8 @@
+{{ define "main" }}
+<section class="notfound">
+  <div class="code">404</div>
+  <h1>{{ i18n "notFoundTitle" | default "頁面不存在" }}</h1>
+  <p>{{ i18n "notFoundBody" | default "你尋找的頁面可能已經被搬走或刪除了。" }}</p>
+  <a class="back" href="{{ "/" | relLangURL }}">← {{ i18n "home" | default "回到首頁" }}</a>
+</section>
+{{ end }}

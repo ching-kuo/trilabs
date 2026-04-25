@@ -2,8 +2,14 @@ home:
   other: "ホーム"
 search:
   other: "検索"
+searchLede:
+  other: "タイトル・タグ・要約からキーワードで検索します。"
+searchPlaceholder:
+  other: "キーワードを入力…"
 readMore:
   other: "続きを読む"
+readFull:
+  other: "全文を読む"
 article:
   readingTime:
     other: "約 {{ . }} 分"
@@ -13,3 +19,23 @@ tags:
   other: "タグ"
 recentArticles:
   other: "最新記事"
+posts:
+  other: "記事"
+archive:
+  other: "記事一覧"
+related:
+  other: "関連記事"
+entries:
+  other: "ENTRIES"
+page:
+  other: "PAGE"
+pinnedLatest:
+  other: "PINNED · 最新"
+nextRace:
+  other: "NEXT RACE · 次のレース"
+daysOut:
+  other: "DAYS"
+notFoundTitle:
+  other: "ページが見つかりません"
+notFoundBody:
+  other: "お探しのページは移動または削除された可能性があります。"

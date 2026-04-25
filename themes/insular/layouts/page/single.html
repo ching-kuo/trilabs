@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="page-wrap">
+  <div class="breadcrumb">{{ site.Title }} <span class="a">/ {{ .Title }}</span></div>
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

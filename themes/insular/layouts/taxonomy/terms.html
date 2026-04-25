@@ -1,0 +1,14 @@
+{{ define "main" }}
+<header class="art-head" style="padding-bottom:24px">
+  <div class="kicker">{{ upper .Data.Plural }}</div>
+  <h1>{{ .Title }}</h1>
+</header>
+
+<div class="container" style="padding-bottom:80px">
+  <div class="tax-cloud">
+    {{ range .Data.Terms.Alphabetical }}
+      <a href="{{ .Page.RelPermalink }}">{{ .Name }}<span class="count">{{ .Count }}</span></a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

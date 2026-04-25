@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Tri Labs">
   <rect width="64" height="64" rx="6" fill="#1A1614"></rect>
   <path d="M10 14h44v10H37v28H27V24H10z" fill="#F7F4EE"></path>
-  <path d="M39 42h13v10H29V27h10z" fill="#C94A24"></path>
+  <path d="M39 42h13v10H29V27h10z" fill="#B8350B"></path>
 </svg>
