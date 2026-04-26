@@ -25,7 +25,7 @@ That's a steep climb from where I am now. But having clear targets makes it easi
 
 My Garmin watch and bike computer collect the raw data, Zwift handles indoor cycling, and everything feeds into TrainingPeaks for analysis. (Garmin's running power data keeps inflating my TSS, so I still have to manually revert each session to hrTSS. Annoying, but not worth switching platforms over.)
 
-For gear, I have no brand loyalty. I only write about things I bought with my own money and actually use. If you're curious, I keep an updated [Gear List](/gear/).
+For gear, I have no brand loyalty. I only write about things I bought with my own money and actually use. If you're curious, I keep an updated [Gear List](/page/gear/).
 
 ![Riding the Cervélo P5 at Miyako Triathlon](/images/hello-world/cervelo-p5.webp)
 

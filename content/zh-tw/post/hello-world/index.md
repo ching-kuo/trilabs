@@ -27,7 +27,7 @@ image: /images/hello-world/cervelo-p5.webp
 
 目前的訓練數據流程蠻單純的：Garmin 手錶跟車錶收集第一手數據，Zwift 處理室內騎車，最後全部丟進 TrainingPeaks 來分析。（Garmin 的跑步功率數據一直把我的 TSS 灌得很高，每次都要手動改回 hrTSS，蠻煩的，但還不至於為了這個換平台。）
 
-裝備的部分，我不特別迷品牌，這裡只會寫我自己花錢買的、實際在用的東西。如果好奇我目前的配置，可以看看[裝備清單](/gear/)。
+裝備的部分，我不特別迷品牌，這裡只會寫我自己花錢買的、實際在用的東西。如果好奇我目前的配置，可以看看[裝備清單](/zh-tw/page/gear/)。
 
 ![宮古島鐵人三項自行車賽段 Cervélo P5](/images/hello-world/cervelo-p5.webp)
 
