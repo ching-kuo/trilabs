@@ -1,5 +1,5 @@
 ---
-title: "The Best TT Training Spot Near Tokyo: Kasumigaura + Rinrin Road"
+title: "TT Training Spot Near Tokyo: Kasumigaura + Rinrin Road"
 slug: kasumigaura-rinrin-road-cycling-route
 description: "A 125 km flat loop within day-trip distance from Tokyo. Kasumigaura is built for TT and long endurance rides; the adjacent Tsukuba Kasumigaura Rinrin Road is a dedicated cycling path that's perfect for cruising or cherry blossom season."
 date: 2026-05-05

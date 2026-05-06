@@ -1,5 +1,5 @@
 ---
-title: "From Mobility and Strength to Running Form: A Full Running Mechanics Assessment"
+title: "Mobility, Strength, and Running Form Assessment"
 date: 2026-03-07T21:00:00+09:00
 draft: false
 slug: "running-form-review"

@@ -28,7 +28,7 @@ languages:
     languageName: "English"
     languageCode: "en"
     weight: 1
-    title: "Tri Labs | Data & Endurance"
+    title: "Tri Labs"
     params:
       description: "Triathlete. Cloud engineer. Engineering the perfect race."
       tagline: "A NOTEBOOK ON ENDURANCE"

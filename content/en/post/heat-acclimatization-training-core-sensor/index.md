@@ -1,5 +1,5 @@
 ---
-title: "Pre-Miyakojima Prep: Heat Acclimatization Training with CORE Temperature Monitoring"
+title: "Pre-Miyakojima Heat Acclimatization with CORE Sensor"
 description: "Using a CORE sensor to monitor core temperature during heat acclimatization training — research background, gear comparison, and practical approach."
 date: 2026-04-07
 slug: heat-acclimatization-training-core-sensor

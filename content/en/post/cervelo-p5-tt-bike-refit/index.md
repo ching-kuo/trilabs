@@ -1,5 +1,5 @@
 ---
-title: "Cervelo P5 Refit: Finding the Balance Between Aero and Comfort"
+title: "Cervelo P5 Refit: Balance Between Aero and Comfort"
 description: "A refit at Sun Merit Bike Fit Studio in Yokohama — saddle dropped 23 mm, position pushed forward, rearward cleat placement added. Results after a 180 km ride."
 date: 2026-04-01
 slug: cervelo-p5-tt-bike-refit
