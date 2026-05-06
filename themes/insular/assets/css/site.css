@@ -115,8 +115,11 @@ img { max-width: 100%; height: auto; display: block; }
 .banner .desc {
   font-family: var(--zh-serif);
   font-style: italic;
+  font-weight: normal;
   font-size: 15px;
+  line-height: 1.5;
   color: var(--fg-1);
+  margin: 0;
   flex: 1;
 }
 .banner .about-link {

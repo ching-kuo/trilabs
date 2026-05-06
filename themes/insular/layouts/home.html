@@ -5,7 +5,7 @@
 
 <div class="banner">
   <span class="tag">{{ site.Params.tagline | default "A NOTEBOOK ON ENDURANCE" }}</span>
-  <span class="desc">{{ site.Params.description }}</span>
+  <h1 class="desc">{{ site.Params.description }}</h1>
   {{ with site.GetPage "/page/about" }}<a class="about-link" href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}
 </div>
 
