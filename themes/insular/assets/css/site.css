@@ -989,7 +989,7 @@ html[lang="ja"] .art p { text-align: justify; text-justify: inter-character; }
   .byline { gap: 16px; }
   .hero-img { padding: 0 24px; margin-bottom: 32px; }
   .body-wrap { grid-template-columns: 1fr; gap: 32px; padding: 0 24px 40px; }
-  .body-wrap > .toc, .body-wrap > .art { grid-column: 1; }
+  .body-wrap > .toc, .body-wrap > .art { grid-column: 1; grid-row: auto; }
   .toc { position: static; padding-bottom: 24px; border-bottom: 1px solid var(--line); order: -1; }
   .art .stat-grid { grid-template-columns: 1fr; }
   .related { padding: 40px 24px 60px; }
