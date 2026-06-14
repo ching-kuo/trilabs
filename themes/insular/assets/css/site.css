@@ -514,6 +514,7 @@ img { max-width: 100%; height: auto; display: block; }
   color: var(--fg-0);
   max-width: 64ch;
   min-width: 0;
+  overflow-wrap: break-word;
 }
 .art p { margin: 0 0 24px; }
 html[lang^="zh"] .art p,
@@ -608,6 +609,8 @@ html[lang="ja"] .art p { text-align: justify; text-justify: inter-character; }
 .art img { margin: 24px 0; }
 .art hr { border: none; border-top: 1px solid var(--line); margin: 48px 0; }
 
+.art .table-scroll { margin: 28px 0; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.art .table-scroll:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .art table {
   width: 100%;
   border-collapse: collapse;
@@ -615,6 +618,7 @@ html[lang="ja"] .art p { text-align: justify; text-justify: inter-character; }
   font-family: var(--mono);
   font-size: 13px;
 }
+.art .table-scroll > table { margin: 0; }
 .art table thead {
   background: var(--bg-1);
   border-top: 2px solid var(--fg-0);
