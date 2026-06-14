@@ -119,8 +119,8 @@ imageCaption: "右は水を入れて振った、飲める状態。左は少し�
 
 私が使っている原料（Amazon）。
 
-- マルトデキストリン（食品グレード）：https://amzn.to/4vJGvOp
-- 果糖：https://amzn.to/4oriI3f
+- マルトデキストリン（食品グレード）：<https://amzn.to/4vJGvOp>
+- 果糖：<https://amzn.to/4oriI3f>
 
 <small>上記はアフィリエイトリンクです。リンク経由で購入いただくと、購入価格は変わらず、私に少額の手数料が入ることがあります。</small>
 
@@ -170,9 +170,9 @@ imageCaption: "右は水を入れて振った、飲める状態。左は少し�
 
 <a id="ref-4"></a>[4] Climbing Nutrition. Make Your Own Sports Drink. https://www.climbingnutrition.com/supplements/make-your-own-sports-drink/
 
-<a id="ref-5"></a>[5] ポカリスエット — 製品情報・成分。https://pocarisweat.jp/products/
+<a id="ref-5"></a>[5] ポカリスエット — 製品情報・成分。<https://pocarisweat.jp/products/>
 
-<a id="ref-6"></a>[6] Maurten Drink Mix 320（1 袋 ¥1,000、炭水化物 78g）。Maurten Japan。https://maurten.jp/products/new-drink-mix-320
+<a id="ref-6"></a>[6] Maurten Drink Mix 320（1 袋 ¥1,000、炭水化物 78g）。Maurten Japan。<https://maurten.jp/products/new-drink-mix-320>
 
-<a id="ref-7"></a>[7] Precision Fuel & Hydration — カーボ・オンリー・ドリンクミックス（930g）。https://shop.pfandh.jp/pages/all-products
+<a id="ref-7"></a>[7] Precision Fuel & Hydration — カーボ・オンリー・ドリンクミックス（930g）。<https://shop.pfandh.jp/pages/all-products>
 

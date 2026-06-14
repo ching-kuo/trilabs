@@ -121,9 +121,9 @@ imageCaption: "右邊是裝滿水搖勻、可以喝的樣子；左邊那瓶是�
 
 台灣的話，蝦皮就能買到（我自己是在日本買的，這幾條是台灣的連結）：
 
-- 麥芽糊精（台灣產，食品級）：https://s.shopee.tw/4LGyNFFdFh
-- 果糖：https://s.shopee.tw/8V6XLES7sp
-- 水果風味粉：https://s.shopee.tw/4AxYCFeOpV
+- 麥芽糊精（台灣產，食品級）：<https://s.shopee.tw/4LGyNFFdFh>
+- 果糖：<https://s.shopee.tw/8V6XLES7sp>
+- 水果風味粉：<https://s.shopee.tw/4AxYCFeOpV>
 
 <small>以上為聯盟行銷連結，透過連結購買我可能獲得少量回饋，不影響你的購買價格。</small>
 
@@ -173,9 +173,9 @@ imageCaption: "右邊是裝滿水搖勻、可以喝的樣子；左邊那瓶是�
 
 <a id="ref-4"></a>[4] Climbing Nutrition. Make Your Own Sports Drink. https://www.climbingnutrition.com/supplements/make-your-own-sports-drink/
 
-<a id="ref-5"></a>[5] 寶礦力水得 台灣官網 — 產品成分。https://www.pocari.com.tw/products
+<a id="ref-5"></a>[5] 寶礦力水得 台灣官網 — 產品成分。<https://www.pocari.com.tw/products>
 
-<a id="ref-6"></a>[6] 32Gi 競賽能量飲（Race Pro 900g，約 NT$1,500）。32Gi 台灣官方網站（2026/06）。https://www.monkeyway.net/32gi
+<a id="ref-6"></a>[6] 32Gi 競賽能量飲（Race Pro 900g，約 NT$1,500）。32Gi 台灣官方網站（2026/06）。<https://www.monkeyway.net/32gi>
 
 <!--
 =================================================================
