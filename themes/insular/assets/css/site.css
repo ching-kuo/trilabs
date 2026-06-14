@@ -971,8 +971,9 @@ html[lang="ja"] .art p { text-align: justify; text-justify: inter-character; }
 
 /* ---------- Mobile ---------- */
 @media (max-width: 900px) {
-  .top { flex-wrap: wrap; gap: 16px; padding: 20px 24px; }
-  .nav { gap: 18px; font-size: 13px; flex-wrap: wrap; }
+  .top { flex-direction: column; align-items: stretch; gap: 14px; padding: 16px 24px; }
+  .nav { gap: 14px 20px; font-size: 13px; flex-wrap: wrap; }
+  .top-controls { justify-content: space-between; gap: 16px; }
   .banner { flex-direction: column; align-items: flex-start; padding: 20px 24px; }
   .race { padding: 0 24px; }
   .race-card { grid-template-columns: 1fr; gap: 16px; padding: 20px; }
