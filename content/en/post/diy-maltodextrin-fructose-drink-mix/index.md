@@ -147,7 +147,7 @@ It's simple. A few things that matter:
 - **This isn't medical or nutrition advice**: gut tolerance varies a lot between people. Start low, test it in training, and never try a new mix for the first time on race day.
 - **High concentration goes hypertonic**: past ~90g of carbs the drink gets concentrated, and without enough water it can upset your stomach.
 - **Hygiene**: keep your dry powder sealed and dry, and don't let mixed drink sit in the heat for long.
-- **Commercial products still have their place**: I've used Maurten and Precision Fuel & Hydration too, and honestly they taste better than what I mix — plus the hydrogel tech, ready-made electrolytes and flavors, and the tear-and-go convenience on race day are things you can't replicate at home. They just cost a lot more. My split: use them for races and race-prep fueling, mix my own for everyday training.
+- **Commercial products still have their place**: I've used [Maurten](https://amzn.to/3S02iTE) and [Precision Fuel & Hydration](https://amzn.to/3QHWePd) too, and honestly they taste better than what I mix — plus the hydrogel tech, ready-made electrolytes and flavors, and the tear-and-go convenience on race day are things you can't replicate at home. They just cost a lot more. My split: use them for races and race-prep fueling, mix my own for everyday training.
 - **I haven't ditched commercial gels either**: in training, especially run sessions, I still carry gels. A powder needs a bottle and you have to drink it on the move, which is a pain running; a gel goes in a pocket and you're off. So: self-mixed drink for the bike and long sessions, gels for the run.
 
 ---
