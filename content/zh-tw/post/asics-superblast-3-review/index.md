@@ -190,6 +190,14 @@ Superblast 3 是目前 ASICS 超級訓練鞋系列中，日常訓練用途最全
 
 ---
 
+## 哪裡買
+
+ASICS Superblast 3：[Shopee](https://s.shopee.tw/1qZgZlgvvT)
+
+<small>以上為聯盟行銷連結，透過連結購買我可能獲得少量回饋，不影響你的購買價格。</small>
+
+---
+
 ## 目前的鞋款輪換
 
 - **Superblast 3** — Z3 以下，長跑

@@ -192,6 +192,14 @@ For my current rotation, the Superblast 3 fits better — and the long run confi
 
 ---
 
+## Where to Buy
+
+ASICS Superblast 3: [Amazon US](https://amzn.to/3S8ymEN)
+
+<small>This is an affiliate link — buying through it may earn me a small commission at no extra cost to you.</small>
+
+---
+
 ## My Current Rotation
 
 - **Superblast 3** — Z3 and below, long runs
