@@ -1,6 +1,6 @@
 ---
 title: "Cervelo P5 のリフィット：エアロと快適さのバランスを探して"
-description: "横浜の Sun Merit Bike Fit Studio で Cervelo P5 をリフィット。サドル 23 mm 下げ、ポジション前傾、クリート後退プレート追加。180 km 走った後の結果。"
+description: "横浜の Sun Merit Bike Fit Studio で Cervelo P5 の TT ポジションをリフィット。サドルを 23 mm 下げ、ポジションを前傾させ、クリート後退プレートを追加してエアロと快適性のバランスを調整。変更点と 180 km 走った後の実走インプレッションをまとめました。"
 date: 2026-04-01
 slug: cervelo-p5-tt-bike-refit
 categories: ["ギア", "トライアスロン"]

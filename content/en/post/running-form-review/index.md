@@ -1,5 +1,6 @@
 ---
 title: "Mobility, Strength, and Running Form Assessment"
+description: "A physiotherapist-led running mechanics assessment — lower-limb mobility, strength testing on the VALD ForceFrame and Dynamo Plus, and slow-motion treadmill analysis in one session — and what it revealed about my left-right imbalance."
 date: 2026-03-07T21:00:00+09:00
 draft: false
 slug: "running-form-review"

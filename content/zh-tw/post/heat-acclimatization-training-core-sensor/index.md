@@ -1,6 +1,6 @@
 ---
 title: "宮古島前的備戰：熱適應訓練與 CORE 核心溫度監控"
-description: "用 CORE sensor 監控核心溫度做熱適應訓練，整理研究背景、裝備比較和實際做法。"
+description: "用 CORE sensor 即時監控核心體溫，進行賽前熱適應訓練的完整紀錄：整理熱適應背後的研究背景與身體生理機制、比較不同降溫裝備與核心體溫的量測方式，以及在前進高溫高濕的宮古島之前，我自己實際採用的熱適應訓練流程、週期安排與每天的操作做法。"
 date: 2026-04-07
 slug: heat-acclimatization-training-core-sensor
 categories: ["訓練", "裝備"]

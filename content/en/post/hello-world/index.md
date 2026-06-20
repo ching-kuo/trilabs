@@ -1,5 +1,6 @@
 ---
 title: "Hello World: Engineering a Sub-10 Ironman by 2027"
+description: "A Tokyo infrastructure engineer treats triathlon like a systems problem: collect data, catch the warning signs early, adjust. The story behind Tri Labs and the goals driving it — a sub-10 Ironman by 2027 and a Kona qualification."
 date: 2026-02-23T12:00:00+09:00
 draft: false
 slug: "hello-world"

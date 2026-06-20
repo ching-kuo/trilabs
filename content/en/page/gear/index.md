@@ -1,8 +1,7 @@
 ---
 title: "Gear"
+description: "The triathlon gear I actually train and race with — swim, bike, run, and tech — with honest notes and no sponsored reviews. Updated whenever my kit changes."
 ---
-
-*Gear I actually use — no sponsored reviews, just honest kit.*
 
 ## 🏊 Swim
 

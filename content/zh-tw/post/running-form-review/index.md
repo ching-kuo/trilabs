@@ -1,5 +1,6 @@
 ---
 title: "從活動度、肌力到跑姿：一次完整的跑步力學評估"
+description: "由物理治療師主導的一次跑步力學評估，把下肢活動度測試、用 VALD ForceFrame 與 Dynamo Plus 進行的肌力測試，以及跑步機上的慢動作分析整合在同一次流程裡，找出左右不平衡的真正原因，也讓接下來該優先補強什麼變得清楚許多。"
 date: 2026-03-07T21:00:00+09:00
 draft: false
 slug: "running-form-review"

@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "About Ching Kuo — a Tokyo-based triathlete and cloud infrastructure engineer chasing a sub-10 Ironman and a Kona qualification, documenting training with a data-driven approach."
 ---
 
 Hi, I'm Ching Kuo — a triathlete and cloud infrastructure engineer based in Tokyo, originally from Taiwan.

@@ -1,5 +1,7 @@
 home:
   other: "Home"
+siteTagline:
+  other: "A Data-Driven Triathlon & Endurance Notebook"
 search:
   other: "Search"
 searchLede:

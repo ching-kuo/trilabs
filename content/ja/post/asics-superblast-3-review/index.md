@@ -1,6 +1,6 @@
 ---
 title: "ASICS Superblast 3 レビュー：Megablast より実用的？"
-description: "Superblast 2 よりソフトでクッション性が高く、Megablast より日常のトレーニングで使いやすい。幅広い練習に対応できる万能トレーニングシューズ。"
+description: "ASICS Superblast 3 レビュー：Superblast 2 よりソフトでクッション性が高く、Megablast よりペースを抑えやすい。閾値走と 2.5 時間のビルドアップ走で試した結果、幅広い練習量をこなせる万能トレーニングシューズだと感じた。"
 date: 2026-03-08
 slug: asics-superblast-3-review
 categories: ["ギア", "ランニング"]

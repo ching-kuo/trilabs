@@ -1,6 +1,6 @@
 ---
 title: "重新調整 Cervelo P5：找到空力與舒適的平衡"
-description: "在橫濱 Sun Merit Bike Fit Studio 重新調整 Cervelo P5——座墊降了 23 mm、騎乘姿勢往前推、加了卡踏後移延伸板，騎完 180 km 之後的結果。"
+description: "在橫濱 Sun Merit Bike Fit Studio 重新調整 Cervelo P5 計時車：座墊下降 23 mm、騎乘姿勢往前推、加裝卡踏後移延伸板，在空力與舒適之間找平衡。記錄完整調整細節與騎完 180 km 之後的實際感受。"
 date: 2026-04-01
 slug: cervelo-p5-tt-bike-refit
 categories: ["裝備", "鐵人三項"]

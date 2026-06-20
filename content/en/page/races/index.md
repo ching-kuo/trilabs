@@ -1,5 +1,6 @@
 ---
-title: "Race Calendar"
+title: "2026 Triathlon Race Calendar"
+description: "My 2026 triathlon race calendar — distances, dates, locations, and goals for each event — plus the long-term targets behind the schedule: a sub-10 Ironman and a Kona qualification."
 ---
 
 ## 2026 Race Calendar

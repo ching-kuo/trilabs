@@ -1,6 +1,6 @@
 ---
 title: "ASICS Superblast 3 評測：比 Megablast 更適合訓練？"
-description: "比 Superblast 2 更軟、更有緩衝感，又比 Megablast 更容易控制。一雙能應付大多數訓練的萬用跑鞋。"
+description: "ASICS Superblast 3 評測：比 Superblast 2 更軟、更有緩衝也更全面，又比 Megablast 更容易控制配速。實際完成門檻跑與 2.5 小時漸速長跑後，認為它是一雙能吃下大多數日常訓練量、不挑場合的萬用跑鞋。"
 date: 2026-03-08
 slug: asics-superblast-3-review
 categories: ["裝備", "跑步"]
