@@ -6,7 +6,15 @@ slug: asics-superblast-3-review
 categories: ["Gear", "Running"]
 tags: ["ASICS", "Running Shoes", "Superblast", "Gear Review", "Megablast"]
 image: sb_only_side.webp
+review:
+  name: "ASICS Superblast 3"
+  brand: "ASICS"
+  rating: 4.5
+  price: 210
+  currency: USD
 ---
+
+**Verdict:** The ASICS Superblast 3 ($210) is softer, 10 g lighter, and more cushioned than the Superblast 2, and more versatile than the race-biased Megablast. After a threshold run and a 2.5-hour progression long run, it's the most practical max-stack daily trainer ASICS makes — best for Z2–Z3 volume if you already own a dedicated race shoe.
 
 <!-- PHOTO 1: side view showing full shoe and midsole layers -->
 <img src="/img/superblast-3-review/sb_only_side.webp" loading="lazy" alt="ASICS Superblast 3 — side view showing FF LEAP and FF BLAST+ layers">

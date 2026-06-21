@@ -1,0 +1,36 @@
+{{- /* Review/Product JSON-LD. Emitted only on pages with a `review:` frontmatter block.
+       Example frontmatter:
+         review:
+           name: "ASICS Superblast 3"
+           brand: "ASICS"
+           rating: 4.5      # optional — omit to skip the star snippet
+           price: 210       # optional
+           currency: USD    # optional, defaults to USD
+*/ -}}
+{{- with .Params.review -}}
+  {{- $img := "" -}}
+  {{- with $.Params.image -}}
+    {{- if or (hasPrefix . "http") (hasPrefix . "//") -}}
+      {{- $img = . -}}
+    {{- else -}}
+      {{- with $.Resources.GetMatch . -}}{{- $img = .Permalink -}}{{- else -}}{{- $img = . | absURL -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $product := dict "@type" "Product" "name" .name -}}
+  {{- with .brand -}}{{- $product = merge $product (dict "brand" (dict "@type" "Brand" "name" .)) -}}{{- end -}}
+  {{- with $img -}}{{- $product = merge $product (dict "image" .) -}}{{- end -}}
+  {{- if .price -}}{{- $product = merge $product (dict "offers" (dict "@type" "Offer" "price" (printf "%v" .price) "priceCurrency" (.currency | default "USD"))) -}}{{- end -}}
+  {{- $schema := dict
+      "@context" "https://schema.org"
+      "@type" "Review"
+      "itemReviewed" $product
+      "author" (dict "@type" "Person" "name" (site.Params.author | default site.Title))
+      "datePublished" ($.Date.Format "2006-01-02")
+      "publisher" (dict "@type" "Organization" "name" site.Title)
+      "url" $.Permalink -}}
+  {{- with .rating -}}{{- $schema = merge $schema (dict "reviewRating" (dict "@type" "Rating" "ratingValue" (printf "%v" .) "bestRating" "5" "worstRating" "1")) -}}{{- end -}}
+  {{- /* safeJS: inside <script type="application/ld+json"> Go's html/template treats the
+       body as a JS value and would re-encode the jsonify string into a quoted, escaped
+       blob (invalid JSON-LD). jsonify already escapes <,>,& to \u00xx, so this is safe. */ -}}
+  <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{- end -}}

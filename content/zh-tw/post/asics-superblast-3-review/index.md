@@ -6,7 +6,15 @@ slug: asics-superblast-3-review
 categories: ["裝備", "跑步"]
 tags: ["ASICS", "跑鞋", "Superblast", "裝備評測", "Megablast"]
 image: sb_only_side.webp
+review:
+  name: "ASICS Superblast 3"
+  brand: "ASICS"
+  rating: 4.5
+  price: 5980
+  currency: TWD
 ---
+
+**結論：** ASICS Superblast 3（NT$5,980）比 Superblast 2 更軟、更輕 10 克、緩衝更足，也比偏競速的 Megablast 更好控速。實測一次門檻跑與 2.5 小時漸速長跑後，我認為它是 ASICS 目前最實用的高堆疊日常訓練鞋——如果你已經有一雙專門的比賽鞋，它最適合吃下 Z2–Z3 的訓練量。
 
 <!-- PHOTO 1: side view showing full shoe and midsole layers -->
 <img src="/img/superblast-3-review/sb_only_side.webp" loading="lazy" alt="ASICS Superblast 3 側面圖，展示 FF LEAP 與 FF BLAST+ 雙層中底">

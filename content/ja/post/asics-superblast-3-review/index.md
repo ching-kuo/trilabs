@@ -6,7 +6,15 @@ slug: asics-superblast-3-review
 categories: ["ギア", "ランニング"]
 tags: ["ASICS", "ランニングシューズ", "Superblast", "ギアレビュー", "Megablast"]
 image: sb_only_side.webp
+review:
+  name: "ASICS Superblast 3"
+  brand: "ASICS"
+  rating: 4.5
+  price: 26400
+  currency: JPY
 ---
+
+**結論：** ASICS Superblast 3（¥26,400）は Superblast 2 より柔らかく 10g 軽く、クッション性も高い。競速寄りの Megablast よりペースを抑えやすい。閾値走と 2.5 時間のビルドアップ走で試した結果、ASICS で最も実用的な厚底デイリートレーナーだと感じた。レース用シューズを別に持っているなら、Z2–Z3 の練習量に最適。
 
 <!-- PHOTO 1: side view showing full shoe and midsole layers -->
 <img src="/img/superblast-3-review/sb_only_side.webp" loading="lazy" alt="ASICS Superblast 3 側面：FF LEAP と FF BLAST+ の二層構造">
