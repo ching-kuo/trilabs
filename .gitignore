@@ -4,5 +4,6 @@ resources/
 node_modules/
 .DS_Store
 .claude/
-temp_pic/
-/2026-miyako-*.md
+
+# local scratch — drafts, raw activity exports, source images (kept locally, not pushed)
+_scratch/
