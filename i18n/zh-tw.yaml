@@ -41,3 +41,88 @@ notFoundTitle:
   other: "頁面不存在"
 notFoundBody:
   other: "你尋找的頁面可能已經被搬走或刪除了。"
+
+# --- HR comparison chart (hr-comparison shortcode) ---
+hrc_title_swim1:
+  other: "🏊 游泳 Session 1 — Garmin Fenix 8 光學 vs Fitbit Air 光學"
+hrc_title_swim2:
+  other: "🏊 游泳 Session 2 — 3×500m 間歇課表"
+hrc_title_bike:
+  other: "🚴 戶外騎車 — Garmin HRM 胸帶 vs Fitbit Air"
+hrc_sub_bike:
+  other: "（已移除靜止時段）"
+hrc_title_longrun:
+  other: "🏃 長跑 — Garmin HRM 胸帶 vs Fitbit Air"
+hrc_sub_longrun:
+  other: "（自動偵測，約 2min 解析度）"
+hrc_title_intervalrun:
+  other: "🏃 間歇跑 — Garmin HRM 胸帶 vs Fitbit Air"
+hrc_title_indoor:
+  other: "🚴 室內騎車 — HRM (Zwift) vs Fitbit Air vs Garmin 手錶光學"
+hrc_sub_indoor:
+  other: "（手錶中途才開始記錄）"
+hrc_leg_garmin_fenix_wrist:
+  other: "Garmin Fenix 8（手腕光學）"
+hrc_leg_fitbit_wrist:
+  other: "Fitbit Air（手腕光學）"
+hrc_leg_garmin_hrm_chest:
+  other: "Garmin HRM 胸帶（胸）"
+hrc_leg_hrm_core_zwift:
+  other: "Garmin HRM-Pro → greenTEG CORE → Zwift"
+hrc_leg_garmin_watch_optical:
+  other: "Garmin Fenix 8 光學（約 39min 後才開始）"
+hrc_hint_scroll:
+  other: "← 滑動 / 拖曳查看 →"
+hrc_hint_swim2:
+  other: "← 滑動 / 拖曳 →  |  熱身 0–5min · 3×500m 約 5–32min · 12×25m 衝刺 約 32–41min · 緩和 約 41–44min"
+hrc_stat_avg_garmin_fenix:
+  other: "平均 Garmin Fenix 8"
+hrc_stat_avg_fitbit:
+  other: "平均 Fitbit Air"
+hrc_stat_mean_div:
+  other: "平均分歧"
+hrc_stat_max_garmin:
+  other: "最高 Garmin"
+hrc_stat_max_fitbit:
+  other: "最高 Fitbit"
+hrc_stat_avg_garmin_hrm:
+  other: "平均 Garmin HRM 胸帶"
+hrc_stat_mae:
+  other: "MAE"
+hrc_stat_mae_2min:
+  other: "MAE（2min+）"
+hrc_stat_avg_hrm:
+  other: "平均 HRM"
+hrc_stat_fitbit_mae_full:
+  other: "Fitbit MAE（全程）"
+hrc_stat_watch_mae_2nd:
+  other: "手錶 MAE（後半段）"
+hrc_stat_max_hrm:
+  other: "最高 HRM"
+hrc_note_swim1:
+  other: "水中兩個感測器都不是基準——皆為手腕光學。高強度主課表（15:25–32:40）：MAE 1.3 bpm。"
+hrc_note_swim2:
+  other: "課表：200m 熱身 → 3×500m @90% → 12×25m 最高划頻 → 200m 緩和。熱身段 MAE 17.5 bpm。主課表 MAE 1.6 bpm。峰值：180 vs 181 bpm。"
+hrc_note_bike:
+  other: "Garmin HRM 胸帶為基準。透過 FIT 檔以 speed < 0.5 m/s 移除 11 段靜止時段（約 26min 補給休息）。"
+hrc_note_longrun:
+  other: "Fitbit 自動偵測。TCX 以約 2min 間隔匯出心率（109min 共 55 點）。前約 90s 為對齊誤差。峰值差距：5 bpm。"
+hrc_note_intervalrun:
+  other: "峰值心率一致為 182 bpm。約 20min 處恢復後起跑進入下一組間歇時有約 60s 延遲——Fitbit 光學爬升較慢。"
+hrc_note_indoor:
+  other: "HRM-Pro 胸帶 → greenTEG CORE 感測器 → Zwift FIT 匯出。Fitbit 記錄全程；Garmin Fenix 8 手錶光學約 39min 後才開始。MAE 以 HRM 胸帶為基準。"
+# --- Weekly RHR/HRV trend chart (hr-trends shortcode) ---
+hrt_rhr_title:
+  other: "靜止心率 — 過去一週"
+hrt_rhr_sub:
+  other: "6/15–21 · Garmin 讀數約低 7 bpm，但兩者走勢一致"
+hrt_hrv_title:
+  other: "HRV（睡眠期間）— 過去一週"
+hrt_hrv_sub:
+  other: "6/15–21 · 每日走勢相同，Fitbit 約高 10–20 ms"
+hrt_leg_garmin:
+  other: "Garmin"
+hrt_leg_fitbit:
+  other: "Fitbit Air"
+hrt_days:
+  other: "一,二,三,四,五,六,日"

@@ -41,3 +41,88 @@ notFoundTitle:
   other: "ページが見つかりません"
 notFoundBody:
   other: "お探しのページは移動または削除された可能性があります。"
+
+# --- HR comparison chart (hr-comparison shortcode) ---
+hrc_title_swim1:
+  other: "🏊 スイム セッション1 — Garmin Fenix 8 光学式 vs Fitbit Air 光学式"
+hrc_title_swim2:
+  other: "🏊 スイム セッション2 — 3×500m インターバル練習"
+hrc_title_bike:
+  other: "🚴 アウトドアバイク — Garmin HRM 胸ストラップ vs Fitbit Air"
+hrc_sub_bike:
+  other: "（停止区間を除外）"
+hrc_title_longrun:
+  other: "🏃 ロング走 — Garmin HRM 胸ストラップ vs Fitbit Air"
+hrc_sub_longrun:
+  other: "（自動検出、約2分解像度）"
+hrc_title_intervalrun:
+  other: "🏃 インターバル走 — Garmin HRM 胸ストラップ vs Fitbit Air"
+hrc_title_indoor:
+  other: "🚴 インドアバイク — HRM（Zwift）vs Fitbit Air vs Garmin 時計 光学式"
+hrc_sub_indoor:
+  other: "（時計は途中から記録）"
+hrc_leg_garmin_fenix_wrist:
+  other: "Garmin Fenix 8（手首光学式）"
+hrc_leg_fitbit_wrist:
+  other: "Fitbit Air（手首光学式）"
+hrc_leg_garmin_hrm_chest:
+  other: "Garmin HRM 胸ストラップ（胸）"
+hrc_leg_hrm_core_zwift:
+  other: "Garmin HRM-Pro → greenTEG CORE → Zwift"
+hrc_leg_garmin_watch_optical:
+  other: "Garmin Fenix 8 光学式（約39分から開始）"
+hrc_hint_scroll:
+  other: "← スクロール / ドラッグで確認 →"
+hrc_hint_swim2:
+  other: "← スクロール / ドラッグ →  |  ウォームアップ 0–5min · 3×500m 約5–32min · 12×25m 疾走 約32–41min · クールダウン 約41–44min"
+hrc_stat_avg_garmin_fenix:
+  other: "平均 Garmin Fenix 8"
+hrc_stat_avg_fitbit:
+  other: "平均 Fitbit Air"
+hrc_stat_mean_div:
+  other: "平均乖離"
+hrc_stat_max_garmin:
+  other: "最高 Garmin"
+hrc_stat_max_fitbit:
+  other: "最高 Fitbit"
+hrc_stat_avg_garmin_hrm:
+  other: "平均 Garmin HRM 胸ストラップ"
+hrc_stat_mae:
+  other: "MAE"
+hrc_stat_mae_2min:
+  other: "MAE（2min以上）"
+hrc_stat_avg_hrm:
+  other: "平均 HRM"
+hrc_stat_fitbit_mae_full:
+  other: "Fitbit MAE（全区間）"
+hrc_stat_watch_mae_2nd:
+  other: "時計 MAE（後半）"
+hrc_stat_max_hrm:
+  other: "最高 HRM"
+hrc_note_swim1:
+  other: "水中ではどちらのセンサーも基準にはならない——両方とも手首光学式。高強度メインセット（15:25–32:40）：MAE 1.3 bpm。"
+hrc_note_swim2:
+  other: "練習：200m ウォームアップ → 3×500m @90% → 12×25m 最大ストローク頻度 → 200m クールダウン。ウォームアップ MAE 17.5 bpm。メインセット MAE 1.6 bpm。ピーク：180 vs 181 bpm。"
+hrc_note_bike:
+  other: "Garmin HRM 胸ストラップが基準。FIT ファイルから speed < 0.5 m/s で停止区間11か所（約26分の補給休憩）を除外。"
+hrc_note_longrun:
+  other: "Fitbit が自動検出。TCX は約2分間隔で心拍を書き出す（109分で55点）。最初の約90秒は時刻合わせのアーティファクト。ピーク差：5 bpm。"
+hrc_note_intervalrun:
+  other: "ピーク心拍は182 bpm で一致。約20分付近、回復後に新しいインターバルを始める際に約60秒の遅れ——Fitbit 光学式は立ち上がりが遅い。"
+hrc_note_indoor:
+  other: "HRM-Pro 胸ストラップ → greenTEG CORE センサー → Zwift FIT 書き出し。Fitbit は全区間をカバー、Garmin Fenix 8 時計光学式は約39分から開始。MAE は HRM 胸ストラップを基準に算出。"
+# --- Weekly RHR/HRV trend chart (hr-trends shortcode) ---
+hrt_rhr_title:
+  other: "安静時心拍 — 過去1週間"
+hrt_rhr_sub:
+  other: "6月15–21日 · Garmin は約7 bpm 低めに出るが、両者は同じ動きをする"
+hrt_hrv_title:
+  other: "HRV（睡眠中） — 過去1週間"
+hrt_hrv_sub:
+  other: "6月15–21日 · 日々の変化の形は同じで、Fitbit が約10–20 ms 高め"
+hrt_leg_garmin:
+  other: "Garmin"
+hrt_leg_fitbit:
+  other: "Fitbit Air"
+hrt_days:
+  other: "月,火,水,木,金,土,日"

@@ -41,3 +41,88 @@ notFoundTitle:
   other: "Page not found"
 notFoundBody:
   other: "The page you were looking for has moved or no longer exists."
+
+# --- HR comparison chart (hr-comparison shortcode) ---
+hrc_title_swim1:
+  other: "🏊 Swim Session 1 — Garmin Fenix 8 Optical vs Fitbit Air Optical"
+hrc_title_swim2:
+  other: "🏊 Swim Session 2 — 3×500m Interval Workout"
+hrc_title_bike:
+  other: "🚴 Bike — Garmin HRM Strap vs Fitbit Air"
+hrc_sub_bike:
+  other: "(stationary periods removed)"
+hrc_title_longrun:
+  other: "🏃 Long Run — Garmin HRM Strap vs Fitbit Air"
+hrc_sub_longrun:
+  other: "(auto-detected, ~2min resolution)"
+hrc_title_intervalrun:
+  other: "🏃 Interval Run — Garmin HRM Strap vs Fitbit Air"
+hrc_title_indoor:
+  other: "🚴 Indoor Cycle — HRM (Zwift) vs Fitbit Air vs Garmin Watch Optical"
+hrc_sub_indoor:
+  other: "(watch started halfway)"
+hrc_leg_garmin_fenix_wrist:
+  other: "Garmin Fenix 8 (wrist optical)"
+hrc_leg_fitbit_wrist:
+  other: "Fitbit Air (wrist optical)"
+hrc_leg_garmin_hrm_chest:
+  other: "Garmin HRM Strap (chest)"
+hrc_leg_hrm_core_zwift:
+  other: "Garmin HRM-Pro → greenTEG CORE → Zwift"
+hrc_leg_garmin_watch_optical:
+  other: "Garmin Fenix 8 Optical (started at ~39min)"
+hrc_hint_scroll:
+  other: "← scroll / drag to explore →"
+hrc_hint_swim2:
+  other: "← scroll / drag →  |  Warmup 0–5min · 3×500m ~5–32min · 12×25m sprints ~32–41min · Cooldown ~41–44min"
+hrc_stat_avg_garmin_fenix:
+  other: "Avg Garmin Fenix 8"
+hrc_stat_avg_fitbit:
+  other: "Avg Fitbit Air"
+hrc_stat_mean_div:
+  other: "Mean divergence"
+hrc_stat_max_garmin:
+  other: "Max Garmin"
+hrc_stat_max_fitbit:
+  other: "Max Fitbit"
+hrc_stat_avg_garmin_hrm:
+  other: "Avg Garmin HRM Strap"
+hrc_stat_mae:
+  other: "MAE"
+hrc_stat_mae_2min:
+  other: "MAE (2min+)"
+hrc_stat_avg_hrm:
+  other: "Avg HRM"
+hrc_stat_fitbit_mae_full:
+  other: "Fitbit MAE (full session)"
+hrc_stat_watch_mae_2nd:
+  other: "Watch MAE (2nd half)"
+hrc_stat_max_hrm:
+  other: "Max HRM"
+hrc_note_swim1:
+  other: "Neither sensor is gold standard in water — both wrist optical. High-intensity main set (15:25–32:40): MAE 1.3 bpm."
+hrc_note_swim2:
+  other: "Workout: 200m warmup → 3×500m @90% → 12×25m max stroke rate → 200m cooldown. Warmup MAE 17.5 bpm. Main sets MAE 1.6 bpm. Peak: 180 vs 181 bpm."
+hrc_note_bike:
+  other: "Garmin HRM chest strap is the reference standard. 11 stationary segments (~26min rest stop) removed via speed < 0.5 m/s from FIT file."
+hrc_note_longrun:
+  other: "Fitbit auto-detected. TCX exports HR at ~2min intervals (55 pts over 109min). First ~90s is alignment artifact. Peak delta: 5 bpm."
+hrc_note_intervalrun:
+  other: "Peak HR matched at 182 bpm. ~60s lag at ~20min when starting a new interval after recovery — Fitbit optical slow to ramp up."
+hrc_note_indoor:
+  other: "HRM-Pro chest strap → greenTEG CORE sensor → Zwift FIT export. Fitbit covers full session; Garmin Fenix 8 watch optical started ~39min in. MAE vs HRM strap gold standard."
+# --- Weekly RHR/HRV trend chart (hr-trends shortcode) ---
+hrt_rhr_title:
+  other: "Resting HR — past week"
+hrt_rhr_sub:
+  other: "Jun 15–21 · Garmin reads ~7 bpm lower, but the two move together"
+hrt_hrv_title:
+  other: "HRV (overnight) — past week"
+hrt_hrv_sub:
+  other: "Jun 15–21 · same day-to-day shape, Fitbit ~10–20 ms higher"
+hrt_leg_garmin:
+  other: "Garmin"
+hrt_leg_fitbit:
+  other: "Fitbit Air"
+hrt_days:
+  other: "Mon,Tue,Wed,Thu,Fri,Sat,Sun"
