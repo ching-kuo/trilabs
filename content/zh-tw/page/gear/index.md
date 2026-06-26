@@ -21,8 +21,8 @@ description: "我實際在訓練和比賽中長期使用的鐵人三項裝備清
 | 計時賽安全帽 | MET Codatronca | [蝦皮](https://s.shopee.tw/3VhuXljmtK) |
 | 比賽輪組 | DT Swiss ARC 1100 62mm | [Amazon JP](https://amzn.to/4xBqV9x) / [US](https://amzn.to/4glHXC4) |
 | 比賽輪組 | Reserve 52/63 | Zipp ZR1 花鼓 · [US](https://amzn.to/4vQCYhr) / [蝦皮](https://s.shopee.tw/6pyMWIHm4z) |
-| 比賽車胎 | Vittoria Corsa Pro Speed 29c | [Amazon JP](https://amzn.to/4aEB1wZ) / [US](https://amzn.to/4kMvRCt) / [蝦皮](https://s.shopee.tw/30ldxNCV2P) |
-| 訓練車胎 | Continental GP5000 STR 28mm | [Amazon JP](https://amzn.to/4rySahs) / [US](https://amzn.to/4b3s00n) / [蝦皮](https://s.shopee.tw/1LdPyLV69p) |
+| 比賽車胎 | Vittoria Corsa Pro Speed 29c | [Amazon JP](https://amzn.to/4aEB1wZ) / [US](https://amzn.to/4kMvRCt) / [蝦皮](https://s.shopee.tw/30ldxNCV2P) / [酷澎](https://coupa.ng/cnFwPp) |
+| 訓練車胎 | Continental GP5000 STR 28mm | [Amazon JP](https://amzn.to/4rySahs) / [US](https://amzn.to/4b3s00n) / [蝦皮](https://s.shopee.tw/1LdPyLV69p) / [酷澎](https://coupa.ng/cnFwN2) |
 | 坐墊 (Tri) | Selle Italia Watt 3D | [Amazon JP](https://amzn.to/4b3s4NF) / [US](https://amzn.to/4kOXaf7) / [蝦皮](https://s.shopee.tw/8pjQuBiVTl) |
 | 坐墊 (Road) | Selle Italia Boost 3D | [Amazon JP](https://amzn.to/4tOJGEh) / [US](https://amzn.to/3OrrO2h) / [蝦皮](https://s.shopee.tw/4VaRkC8kS1) |
 | 卡踏／功率計 | Wahoo Powrlink Zero 雙面 | [Amazon JP](https://amzn.to/4kS1aM6) / [蝦皮](https://s.shopee.tw/3g1Kkm0V3S) |
@@ -34,7 +34,7 @@ description: "我實際在訓練和比賽中長期使用的鐵人三項裝備清
 
 | 項目 | 品牌／型號 | 備註 |
 |------|----------|------|
-| 比賽跑鞋 | Adidas Adizero Adios Pro 4 | [Amazon JP](https://amzn.to/4uztDcI) / [US](https://amzn.to/3QncEw7) / [蝦皮](https://s.shopee.tw/8fQ0i4MlPi) |
+| 比賽跑鞋 | Adidas Adizero Adios Pro 4 | [Amazon JP](https://amzn.to/4uztDcI) / [US](https://amzn.to/3QncEw7) / [蝦皮](https://s.shopee.tw/8fQ0i4MlPi) / [酷澎](https://coupa.ng/cnFwz8) |
 | 比賽跑鞋 | ASICS Metaspeed Edge Tokyo | [Amazon JP](https://amzn.to/4etSJDZ) / [US](https://amzn.to/4ourFJ9) / [蝦皮](https://s.shopee.tw/3g1Kl4SDih) |
 | 訓練跑鞋 | ASICS Superblast 3 | [Amazon JP](https://amzn.to/4vHmRmi) / [US](https://amzn.to/3S8ymEN) / [蝦皮](https://s.shopee.tw/1qZgZlgvvT) |
 

@@ -119,9 +119,9 @@ imageCaption: "右邊是裝滿水搖勻、可以喝的樣子；左邊那瓶是�
 
 ### 原料這裡買
 
-台灣的話，蝦皮就能買到（我自己是在日本買的，這幾條是台灣的連結）：
+台灣的話，蝦皮、酷澎都買得到（我自己是在日本買的，這幾條是台灣的連結）：
 
-- 麥芽糊精（台灣產，食品級）：<https://s.shopee.tw/4LGyNFFdFh>
+- 麥芽糊精（台灣產，食品級）：[蝦皮](https://s.shopee.tw/4LGyNFFdFh) / [酷澎](https://coupa.ng/cnFwJj)
 - 果糖：<https://s.shopee.tw/8V6XLES7sp>
 - 水果風味粉：<https://s.shopee.tw/4AxYCFeOpV>
 
@@ -183,7 +183,7 @@ imageCaption: "右邊是裝滿水搖勻、可以喝的樣子；左邊那瓶是�
 =================================================================
 
 [台灣 zh-tw — Shopee]（本篇使用）
-- 麥芽糊精（台灣產）   NT$188 / 1kg     https://s.shopee.tw/4LGyNFFdFh
+- 麥芽糊精（台灣產）   NT$188 / 1kg     https://s.shopee.tw/4LGyNFFdFh  ｜酷澎 https://coupa.ng/cnFwJj
 - 果糖                 NT$156 / 1.2kg   https://s.shopee.tw/8V6XLES7sp
 - 水果風味粉                            https://s.shopee.tw/4AxYCFeOpV
 

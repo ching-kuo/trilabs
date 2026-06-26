@@ -21,8 +21,8 @@ description: "The triathlon gear I actually train and race with — swim, bike, 
 | TT helmet | MET Codatronca | [Shopee](https://s.shopee.tw/3VhuXljmtK) |
 | Race wheels | DT Swiss ARC 1100 62mm | [Amazon JP](https://amzn.to/4xBqV9x) / [US](https://amzn.to/4glHXC4) |
 | Race wheels | Reserve 52/63 | Zipp ZR1 hub · [US](https://amzn.to/4vQCYhr) / [Shopee](https://s.shopee.tw/6pyMWIHm4z) |
-| Tires (race) | Vittoria Corsa Pro Speed 29c | [Amazon JP](https://amzn.to/4aEB1wZ) / [US](https://amzn.to/4kMvRCt) / [Shopee](https://s.shopee.tw/30ldxNCV2P) |
-| Tires (training) | Continental GP5000 STR 28mm | [Amazon JP](https://amzn.to/4rySahs) / [US](https://amzn.to/4b3s00n) / [Shopee](https://s.shopee.tw/1LdPyLV69p) |
+| Tires (race) | Vittoria Corsa Pro Speed 29c | [Amazon JP](https://amzn.to/4aEB1wZ) / [US](https://amzn.to/4kMvRCt) / [Shopee](https://s.shopee.tw/30ldxNCV2P) / [Coupang](https://coupa.ng/cnFwPp) |
+| Tires (training) | Continental GP5000 STR 28mm | [Amazon JP](https://amzn.to/4rySahs) / [US](https://amzn.to/4b3s00n) / [Shopee](https://s.shopee.tw/1LdPyLV69p) / [Coupang](https://coupa.ng/cnFwN2) |
 | Saddle (Tri) | Selle Italia Watt 3D | [Amazon JP](https://amzn.to/4b3s4NF) / [US](https://amzn.to/4kOXaf7) / [Shopee](https://s.shopee.tw/8pjQuBiVTl) |
 | Saddle (Road) | Selle Italia Boost 3D | [Amazon JP](https://amzn.to/4tOJGEh) / [US](https://amzn.to/3OrrO2h) / [Shopee](https://s.shopee.tw/4VaRkC8kS1) |
 | Pedals / Power Meter | Wahoo Powrlink Zero Dual-Sided | [Amazon JP](https://amzn.to/4kS1aM6) / [Shopee](https://s.shopee.tw/3g1Kkm0V3S) |
@@ -34,7 +34,7 @@ description: "The triathlon gear I actually train and race with — swim, bike, 
 
 | Item | Brand / Model | Notes |
 |------|--------------|-------|
-| Race shoes | Adidas Adizero Adios Pro 4 | [Amazon JP](https://amzn.to/4uztDcI) / [US](https://amzn.to/3QncEw7) / [Shopee](https://s.shopee.tw/8fQ0i4MlPi) |
+| Race shoes | Adidas Adizero Adios Pro 4 | [Amazon JP](https://amzn.to/4uztDcI) / [US](https://amzn.to/3QncEw7) / [Shopee](https://s.shopee.tw/8fQ0i4MlPi) / [Coupang](https://coupa.ng/cnFwz8) |
 | Race shoes | ASICS Metaspeed Edge Tokyo | [Amazon JP](https://amzn.to/4etSJDZ) / [US](https://amzn.to/4ourFJ9) / [Shopee](https://s.shopee.tw/3g1Kl4SDih) |
 | Training shoes | ASICS Superblast 3 | [Amazon JP](https://amzn.to/4vHmRmi) / [US](https://amzn.to/3S8ymEN) / [Shopee](https://s.shopee.tw/1qZgZlgvvT) |
 
