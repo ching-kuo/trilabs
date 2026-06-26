@@ -1,5 +1,5 @@
 ---
-title: "Tokyo's Highest Paved Road: Tomin-no-Mori (Okutama Shuyu Road) Route Guide"
+title: "Tomin-no-Mori: Tokyo's Highest Paved Road Climb"
 slug: tomin-no-mori-cycling-route
 description: "A day-trip climbing route from Ome Station. Tomin-no-Mori sits on the Okutama Shuyu Road, and the finish at Kazahari Pass is the highest paved road in Tokyo (about 1,146 m). This post covers the route segments, climb data, fueling, and things to watch out for, plus a difficulty comparison against Taiwan's Balaka Highway."
 date: 2026-06-23
