@@ -95,9 +95,3 @@ The full course is on my Garmin Connect:
 This route visits all four of the Fuji Five Lakes except Lake Yamanaka in a single day, with the climbing up front and the scenery in the back half. In foliage season, the Momiji Corridor at Kawaguchi and the shore of Lake Shoji are the annual highlights. If you want the training, start from Otsuki and take on the long gradient; if you're here for the views, start from Kawaguchiko Station — both versions work.
 
 Combine it with the Doshi Michi + Lake Yamanaka route from before and you've collected all of the Fuji Five Lakes. Highly recommended in November.
-
-## Reference
-
-- [Fuji Kawaguchiko Autumn Leaves Festival (Fujikawaguchiko Tourism)](https://fujisan.ne.jp/) — Momiji Corridor and festival info
-- [Fujikyu Railway fares](https://www.fujikyu-railway.jp/fare/) — Otsuki to Kawaguchiko, 1,170 yen one way
-- [Fuji Five Lakes tourism info](https://www.mtfujitrail.com/) — sights and facilities around the lakes
