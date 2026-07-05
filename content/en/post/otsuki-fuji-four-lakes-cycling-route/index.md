@@ -9,7 +9,7 @@ image: shojiko_bike_1.webp
 draft: false
 ---
 
-I've already written about a few routes near Tokyo: the [flat TT loop at Kasumigaura](../kasumigaura-rinrin-road-cycling-route/), the [Tomin no Mori climb](../tomin-no-mori-cycling-route/), and [Doshi Michi + Lake Yamanaka](../doshimichi-yamanakako-cycling-route/). This one covers the other four lakes of the Fuji Five Lakes: starting from Otsuki Station, climbing Route 139 up to Lake Kawaguchi, then passing Lake Sai and Lake Shoji before reaching Lake Motosu. Lake Yamanaka was already covered on the Doshi Michi ride, so this route collects the remaining four in one go.
+I've already written about a couple of routes near Tokyo: the [flat TT loop at Kasumigaura](../kasumigaura-rinrin-road-cycling-route/) and the [Tomin no Mori climb](../tomin-no-mori-cycling-route/). This one covers four lakes of the Fuji Five Lakes: starting from Otsuki Station, climbing Route 139 up to Lake Kawaguchi, then passing Lake Sai and Lake Shoji before reaching Lake Motosu.
 
 I've ridden this route a few times, and one of those rides was in late November, right at the tail end of the foliage season. Lake Kawaguchi has its famous Momiji Corridor, and the hillsides along the road and the shore of Lake Shoji were all deep red. Scenery-wise this is one of the best routes I've ridden near Tokyo. If you can only pick one season to go, mid-to-late November is the answer — the photos in this post are from that ride.
 
