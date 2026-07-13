@@ -5,7 +5,7 @@ description: "從小田急線秦野站出發的經典爬坡路線。表ヤビツ
 date: 2026-07-12
 categories: ["路線", "訓練"]
 tags: ["路線", "Japan", "ヤビツ峠", "丹沢", "Hill Climb", "訓練"]
-image: yabisu_pass.webp
+image: yabitsu_pass.webp
 ---
 
 寫完[都民の森](../tomin-no-mori-cycling-route/)之後，這次來介紹另一個關東車友一定聽過的爬坡點：**ヤビツ峠**。ヤビツ峠位在神奈川丹沢山區，標高 761 公尺，是關東 hill climb 的聖地之一，很多車手會固定來這裡做爬坡計時。從我家出發的話，到秦野站的輪行時間比去都民の森還短一點，於是就找了一天來爬看看，結果一爬就是三趟。

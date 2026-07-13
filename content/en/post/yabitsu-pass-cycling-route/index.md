@@ -5,7 +5,7 @@ description: "A classic climbing route starting from Hadano Station on the Odaky
 date: 2026-07-12
 categories: ["Route", "Training"]
 tags: ["Route", "Japan", "Yabitsu Pass", "Tanzawa", "Hill Climb", "Training"]
-image: yabisu_pass.webp
+image: yabitsu_pass.webp
 ---
 
 After writing about [Tomin-no-Mori](../tomin-no-mori-cycling-route/), here's another climb every Kanto cyclist has heard of: **Yabitsu Pass (ヤビツ峠)**. Sitting at 761 m in the Tanzawa mountains of Kanagawa, it's one of Kanto's hill climb meccas, and plenty of riders come here regularly to time their climbs. From my place, the train ride to Hadano Station is actually a bit shorter than getting to Tomin-no-Mori, so I picked a day to go check it out. I ended up climbing it three times.
