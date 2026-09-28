@@ -49,9 +49,9 @@ The exit flow at the lake was simpler than Miyakojima. No incidents, and the tim
 
 The course was exactly as mapped in the pre-race post: flat lakeside sections at the start and end, with three consecutive climbs of 5-8% over 2-3km around the 40km mark. My coach's advice was to ride primarily by heart rate (155-165) with power as a secondary reference (70-75% FTP), precisely because power jumps around on this kind of course, and staring at watts tends to produce wasted surges on the climbs.
 
-In practice, avg HR came out to 158, right inside the coach's range. That part went to plan. But avg power was only 144.9W, about 62% of my FTP (233W, tested on the indoor trainer), clearly below the recommended 70-75% and well down from the 161.5W at Miyakojima.
+In practice, avg HR came out to 158, right inside the coach's range. That part went to plan. But avg power was only 144.9W, about 61% of my FTP (237W, retested on the indoor trainer before Toya), clearly below the recommended 70-75% and well down from the 161.5W at Miyakojima.
 
-However, on a course with concentrated climbs and long flats, avg power alone understates the actual load, and Normalized Power (NP) belongs in the picture. The Variability Index (NP divided by avg power) came out around 1.11, which isn't low, meaning power output swung around quite a bit. Looking at NP instead: 160W, about 69% of 233W FTP, much closer to the 70-75% target than the 62% that avg power suggests. On a mixed climb-and-flat course, NP is the more reasonable reference.
+However, on a course with concentrated climbs and long flats, avg power alone understates the actual load, and Normalized Power (NP) belongs in the picture. The Variability Index (NP divided by avg power) came out around 1.11, which isn't low, meaning power output swung around quite a bit. Looking at NP instead: 160W, about 68% of 237W FTP, much closer to the 70-75% target than the 61% that avg power suggests. On a mixed climb-and-flat course, NP is the more reasonable reference.
 
 Breaking the power down by segment makes it clear why the variability was so high. Output on all three climbs was actually solid:
 
@@ -61,7 +61,7 @@ Breaking the power down by segment makes it clear why the variability was so hig
 | 伏見 climb | 1.71km | 122m | 196W |
 | ゴールは「山の神」climb | 1.81km | 120m | 195W |
 
-All three were above 190W, near or beyond 80-85% of FTP, with heart rate riding right against the 165 ceiling. Now the flat segments:
+All three were above 190W, roughly 81-83% of FTP, with heart rate riding right against the 165 ceiling. Now the flat segments:
 
 | Flat segment | Distance | avg power |
 |--------|------|-----------|
@@ -71,7 +71,7 @@ All three were above 190W, near or beyond 80-85% of FTP, with heart rate riding 
 
 The flats came out at only 138-152W. With heart rate pinned at the same ceiling but no gradient to fight, lower output is all it takes to hold pace. Since this course has far more flat mileage than climbing, the overall average got dragged down heavily by the low flat-section watts. This is exactly why my coach warned against watching average power, and the ride played out as a full confirmation of that call.
 
-One more caveat about the power numbers themselves: the Speedplay power meter pedals I raced on (Wahoo POWRLINK) were recently removed and reinstalled, and the trainer used for the FTP test is a completely separate sensor. I've compared the two before: with the spacers installed, the Wahoo pedals read roughly 1.5-2% lower than the trainer, consistent in direction with the [POWRLINK Zero under-reading thread](https://wahoox.forum.wahoofitness.com/t/wahoo-powrlink-zero-under-reading/23768) on the official Wahoo forum, just not as severe. Adding that correction back, NP 160W becomes roughly 162-163W, about 70% of 233W FTP, landing right at the bottom edge of the coach's 70-75% target. I plan to remove the pedal spacers and retest to see if the readings shift.
+One more caveat about the power numbers themselves: the Speedplay power meter pedals I raced on (Wahoo POWRLINK) were recently removed and reinstalled, and the trainer used for the FTP test is a completely separate sensor. I've compared the two before: with the spacers installed, the Wahoo pedals read roughly 1.5-2% lower than the trainer, consistent in direction with the [POWRLINK Zero under-reading thread](https://wahoox.forum.wahoofitness.com/t/wahoo-powrlink-zero-under-reading/23768) on the official Wahoo forum, just not as severe. Adding that correction back, NP 160W becomes roughly 162-163W, about 69% of 237W FTP, just shy of the bottom edge of the coach's 70-75% target. I plan to remove the pedal spacers and retest to see if the readings shift.
 
 ---
 
@@ -109,7 +109,7 @@ The half-by-half averages tell the story even more clearly: first 12km at avg HR
 | Leg | Coach's target | Actual execution |
 |------|--------------|----------|
 | Swim 2km | 70-80% effort, steady finish | avg HR 168, intensity as planned, pace dragged down by freshwater buoyancy |
-| Bike 91.7km | HR 155-165, power 70-75% FTP | avg HR 158 (on target); NP 160W ≈ 69% FTP, bottom edge of target; avg power 62% FTP clearly low (climbs high, flats low) |
+| Bike 91.7km | HR 155-165, power 70-75% FTP | avg HR 158 (on target); NP 160W ≈ 68% FTP, just below target; avg power 61% FTP clearly low (climbs high, flats low) |
 | Run lap 1 | HR 155-160, pace 5:00-5:30 | First 12km avg HR 164, pace 5:45/km; HR above target, pace never reached the target range |
 | Run lap 2 | HR 160-165 | Second 11km avg HR dropped to ~160, pace fell to 6:13/km; HR didn't rise with fatigue |
 
@@ -133,4 +133,4 @@ The swim was slowed by freshwater buoyancy and a stroke still mid-adjustment, bo
 
 Zooming out, this isn't just a subjective feeling; the numbers are fairly blunt. This race: bike avg power 144.9W (NP 160W), run pace 5:57/km. Both are slower than Miyakojima (161.5W, 5:37/km), even though Miyakojima was much longer (123km bike, full 42.2km marathon run). Shorter distances should be easier to hold intensity over, yet both legs came out worse. That says this isn't a single-discipline problem but overall training condition, which has simply been a notch below where it was going into Miyakojima. The broken toe is only one factor; summer training since the heat arrived hasn't recovered in either volume or quality.
 
-Next race is [99T](https://99tri.com.tw/) on October 2, and the goal is adjusted to match reality: break 5 hours. For now, a few days of proper rest to reset the body, then rebuild the training plan for this next cycle.
+Next race is [99T](https://www.99t.jp/) on October 3, and the goal is adjusted to match reality: break 5 hours. For now, a few days of proper rest to reset the body, then rebuild the training plan for this next cycle.

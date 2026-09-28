@@ -190,4 +190,4 @@ One of Miyakojima's traditions: fireworks go off at the finish line when the fin
 
 ## Next Race
 
-Summer is training-focused. Next race currently planned is [99T](https://99tri.com.tw/) on October 2, which is also the race I did four years ago as my first triathlon. Not registered yet, still looking at other options. The 99T bike course runs on a closed highway and rides beautifully fast. Target for the 113 distance is 4:30.
+Summer is training-focused. Next race currently planned is [99T](https://www.99t.jp/) on October 3, which is also the race I did four years ago as my first triathlon. Not registered yet, still looking at other options. The 99T bike course runs on a closed highway and rides beautifully fast. Target for the 113 distance is 4:30.
